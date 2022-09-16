@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "George Nigmatulin / Site Title"
+title                    : "George Nigmatulin"
 title_separator          : "-"
 name                     : &name "George"
 description              : &description "personal description - hey, great!"
@@ -84,7 +84,7 @@ author:
   avatar           : "IMG-5684.png"
   bio              : "Yo"
   location         : "Location: Moscow"
-  employer         :
+  employer         : "Samsung Research Russia"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
