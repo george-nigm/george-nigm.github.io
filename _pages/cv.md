@@ -12,6 +12,7 @@ redirect_from:
 Work experience
 ======
 * Samsung Research Russia (Jul 2021 – Present, Moscow, Russia)
+
 _Machine Learning R&D Engineer / Sensor Solution Team, Life Care Solutions lab_.
   * Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular / Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)
   * Designed system of data quality estimation, detection erroneous measurements and classifying user usage errors based on outliers’ detection algorithms. Quality metric increased by 21% compared to heuristics.
