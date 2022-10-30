@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 * Samsung Research Russia (Jul 2021 – Present, Moscow, Russia)
-  * Machine Learning R&D Engineer / Sensor Solution Team, Life Care Solutions lab.
+_Machine Learning R&D Engineer / Sensor Solution Team, Life Care Solutions lab_.
   * Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular / Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)
   * Designed system of data quality estimation, detection erroneous measurements and classifying user usage errors based on outliers’ detection algorithms. Quality metric increased by 21% compared to heuristics.
   * Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE=7.7%, R2=0.95) and Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79).
@@ -22,10 +22,10 @@ Work experience
   * Developed an active learning algorithm modified by anomaly detection for planning experiments. The number of required labeling has been reduced by 58%, the quality of the regression model has been improved by 19%
   * Researched the uncertainty scores (total, data, knowledge) using a Bayesian ensemble of decision trees, and anomaly detection methods; researched correlation dependencies of uncertainty / abnormality scores.
 
-  * Bank Orenburg (Jun 2019 – Jul 2020, Orenburg, Russia)
-    * Analyst, Data Scientist / Information technology Department.
-    * Forecasted the ATM daily cash demands based on Triple Exponential Smoothing, ARIMA, Neural Networks, SSA
-    * Developed a discrete model of optimal cash management in ATM branches using dynamic programming, which increased the profitability compared to the classical model by 30%.
+* Bank Orenburg (Jun 2019 – Jul 2020, Orenburg, Russia)
+  * Analyst, Data Scientist / Information technology Department.
+  * Forecasted the ATM daily cash demands based on Triple Exponential Smoothing, ARIMA, Neural Networks, SSA
+  * Developed a discrete model of optimal cash management in ATM branches using dynamic programming, which increased the profitabilitycompared to the classical model by 30%.
 
 Education
 ======
