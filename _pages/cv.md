@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in in applied mathematics and physics, Moscow Institute of Physics and Technology (Moscow, Russia), 2022
+* B.S. in applied mathematics and computer science, Orenburg State University (Orenburg, Russia), 2020
 
 Work experience
 ======
