@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.S. in in applied mathematics and physics, Moscow Institute of Physics and Technology (Moscow, Russia), 2022
-* B.S. in applied mathematics and computer science, Orenburg State University (Orenburg, Russia), 2020
-
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -25,7 +20,21 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+Education
+======
+* Moscow Institute of Physics and Technology (Sep 2020 – Jun 2022, Moscow, Russia)
+  * The Interfaculty Department of Information Transmission Problems and Data Analysis.
+  * Master’s degree in applied mathematics and physics / Machine learning and data analysis
+  * Graduation project: “Anomaly detection aided Active learning on smart watches data”
+  * Average grade 4.8 out of 5.0 for 2 years.
+* Orenburg State University (Sep 2016 – Jun 2020, Orenburg, Russia)
+Department of Math and information technology.
+  * Bachelor’s degree in applied mathematics and computer science
+  * Graduation project: "Research of machine learning models for predicting and optimizing ATM service"
+  * Average grade 5.0 out of 5.0 for 4 years.
+
+
 Skills
 ======
 * Skill 1
