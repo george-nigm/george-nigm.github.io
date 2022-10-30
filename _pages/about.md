@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is George Nigmatulin, and I am a Machine Learning R&D Engineer at Samsung Electronics, where I am part of the Health Care Solutions Lab. Before coming to Samsung I was a Machine Learning Researcher at Skolkovo Institute of Science and Technology. In August 2022, I received my MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
+My name is George Nigmatulin, and I am a Machine Learning R&D Engineer at Samsung Electronics, where I am doing AI algorithms for Smartwatches at Healthcare Solutions Lab. In August 2022, I received my MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
 
-I am interested in ways to application of machine learning (ML) to financial applications. I believe this will be made possible with an open-ended learning process, where environments constantly propose new challenges [1, 2] and agents adapt their configurations to solve them [3, 4, 5]. To make this process unbounded, I am excited by methods to actively encourage diversity [8, 9], while I believe we can eventually use world models to learn simulators purely from offline data [10, 11]. 
+I am interested in ways to application of Causal and Bayesian methods, Predictive Modelling, Optimization to Real-World-Signals. I believe this will be made possible with an open-ended learning process, where environments constantly propose new challenges [1, 2] and agents adapt their configurations to solve them [3, 4, 5]. To make this process unbounded, I am excited by methods to actively encourage diversity [8, 9], while I believe we can eventually use world models to learn simulators purely from offline data [10, 11]. 
 
-I have been incredibly fortunate to spend summers interning at FAIR London with Tim Rocktäschel and Ed Grefenstette and Aspect Capital in the ML group. Before coming to Oxford I was a VP in the Quantitative Research team at JPM in New York. While in America I studied for a Master's part-time at Columbia where I discovered the joys of machine learning research! I am originally from the UK, and studied Maths at Exeter. 
+Before coming to Samsung I was a Machine Learning Researcher at Skoltech Univesity and Data Scientist at Bank Orenburg where I discovered the joys of application of machine learning to Real-World-Signals and financial data! I am originally from the Russian Federation, and studied Maths and Computer Science at Orenburg State Universiuty.
 
 A data-driven personal website
 ======
