@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a third year DPhil student at St Peter's College, Oxford, where I am part of the Machine Learning Research Group, advised by Stephen Roberts. 
+
+I am interested in ways to use reinforcement learning (RL) to train generally capable agents. I believe this will be made possible with an open-ended learning process, where environments constantly propose new challenges [1, 2] and agents adapt their configurations to solve them [3, 4, 5]. To make this process unbounded, I am excited by methods to actively encourage diversity [8, 9], while I believe we can eventually use world models to learn simulators purely from offline data [10, 11]. 
+
+I have been incredibly fortunate to spend summers interning at FAIR London with Tim Rocktäschel and Ed Grefenstette and Aspect Capital in the ML group. Before coming to Oxford I was a VP in the Quantitative Research team at JPM in New York. While in America I studied for a Master's part-time at Columbia where I discovered the joys of machine learning research! I am originally from the UK, and studied Maths at Exeter. 
 
 A data-driven personal website
 ======
