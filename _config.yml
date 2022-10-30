@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "George Nigmatulin"
   avatar           : "output-onlinepngtools.png"
-  bio              : "Research ML-Engineer"
-  location         : "Location: Almaty revert, Kazakhstan"
+  bio              : "Research ML Engineer"
+  location         : "Location: Almaty, Kazakhstan"
   employer         : "Samsung Research Russia"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jGPYeWIAAAAJ&hl=en"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "/george_nigm"
+  twitter          : "george_nigm"
   vine             :
   weibo            :
   xing             :
@@ -210,25 +210,25 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # _portfolio
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  _portfolio
   - scope:
       path: ""
       type: portfolio
