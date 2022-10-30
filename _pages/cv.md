@@ -51,5 +51,9 @@ Extracurricular activities
 * **Deep Learning**: TensorFlow, PyTorch
 * **Area of specialization**: Machine learning, Deep Learning, Causal and Bayesian methods, Predictive Modelling,
 Uncertainty quantification, Optimal control, Quantitative Finance, System analysis, Recommender systems.
+
 <br>
-**Pdf version CV: "https://drive.google.com/file/d/1OAw8j10wZ03Zpw-I1ErUTdfDEHKehBB-/view?usp=share_link"**
+<br>
+<br>
+
+CV: "https://drive.google.com/file/d/1OAw8j10wZ03Zpw-I1ErUTdfDEHKehBB-/view?usp=share_link"
