@@ -85,8 +85,8 @@ author:
   bio              : "Research ML-Engineer"
   location         : "Location: Almaty, Kazakhstan"
   employer         : "Samsung Research Russia"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=jGPYeWIAAAAJ&hl=en"
   email            : "george.nigm@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,17 +100,17 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "www.linkedin.com/in/george-nigmatulin"
+  linkedin         : "/george-nigmatulin"
   
   orcid            : "https://orcid.org/0000-0001-8935-1146"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/george_nigm"
+  twitter          : "/george_nigm"
   vine             :
   weibo            :
   xing             :
