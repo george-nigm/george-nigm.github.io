@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is George Nigmatulin, and I work at Samsung Electronics as a Research Engineer developing AI algorithms for smartwatches in the Healthcare Solutions Lab. In August 2022, I received MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
+My name is George Nigmatulin, and I work at **Samsung Electronics** as a **Research Engineer** developing AI algorithms for smartwatches in the Healthcare Solutions Lab. In August 2022, I received **MSs in Applied Mathematics and Physics** after finishing my studies at the **Moscow Institute of Physics and Technology**.
 
-I have a general interest in Mathematical Finance and its interplay with Probability Theory and Statistics. My main focus is on robust approach to Mathematical Finance and data-driven paradigm in modelling and optimisation. The ensuing problems are often interdisciplinary. In particular, I am currently involved with employment of Deep Learning models to biomedical and accelerometr based systems and optimal transport theory, both its theory and numerical methods.
+I have a general interest in **Mathematical Finance** and its interplay with **Probability Theory and Statistics**. My main focus is on robust approach to Mathematical Finance and data-driven paradigm in modelling and optimisation. The ensuing problems are often interdisciplinary. In particular, I am currently involved with employment of **Deep Learning models** to biomedical and accelerometr based systems and optimal transport theory, both its theory and numerical methods.
 
-My main focus of my research is an application of Causal and Bayesian methods, Predictive Modelling, Optimization to Real-World-Signals Systems. I believe this will be made systems more trustworthy and controlled by extracting associations against correlation [1, 2]. Having received this, we will be able to both construct more reliable system combinations [3, 4] and build effective strategies for predicting future system changes [5, 6, 7], while I believe we can eventually use real world data to learn causalities purely from offline data [8, 9]. 
+My main focus of my research is an application of **Causal and Bayesian methods**, **Predictive Modelling**, **Optimization** to **Real-World-Signals Systems**. I believe this will be made systems more trustworthy and controlled by extracting associations against correlation [1, 2]. Having received this, we will be able to both construct more reliable system combinations [3, 4] and build effective strategies for predicting future system changes [5, 6, 7], while I believe we can eventually use real world data to learn causalities purely from offline data [8, 9]. 
 
-Before coming to Samsung I was a Researcher at Skoltech Univesity and Data Scientist at Bank Orenburg where I discovered the joys of application of machine learning to Real-World-Signals and financial data! I am originally from the Russian Federation, and studied Maths and Computer Science at Orenburg State Universiuty.
+Before coming to Samsung I was a **Researcher** at **Skoltech Univesity** and **Data Scientist** at **Bank Orenburg** where I discovered the joys of application of machine learning to Real-World-Signals and financial data! I am originally from the Russian Federation, and studied at **BSs Maths and Computer Science** at **Orenburg State Universiuty**.
 
 <!-- 
 ======
