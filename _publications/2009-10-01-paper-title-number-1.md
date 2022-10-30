@@ -1,4 +1,19 @@
 ---
+author:
+- family: Bolodurina
+  given: I
+- family: Nigmatulin
+  given: G
+- family: Parfenov
+  given: D
+container-title: Communications in Computer and Information Science,
+  Springer, in press
+id: bolodurina2021intersection
+issue: "https://arxiv.org/abs/2210.15472"
+issued: 2021
+title: Intersection of triangles in space based on cutting off segment
+type: article-journal
+
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
