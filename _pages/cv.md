@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: "Work experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+<!-- Work experience -->
 ======
 * Samsung Research Russia (Jul 2021 – Present, Moscow, Russia)<br>
 _Machine Learning R&D Engineer / Sensor Solution Team, Life Care Solutions lab_.
@@ -17,10 +17,10 @@ _Machine Learning R&D Engineer / Sensor Solution Team, Life Care Solutions lab_.
   * Designed system of data quality estimation, detection erroneous measurements and classifying user usage errors based on outliers’ detection algorithms. Quality metric increased by 21% compared to heuristics.
   * Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE=7.7%, R2=0.95) and Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79).
 
-* Skolkovo Institute of Science and Technology (Aug 2020 – Jul 2022, Moscow, Russia)
-  * Researcher / Laboratory of applied research Skoltech-Sberbank.
-  * Developed an active learning algorithm modified by anomaly detection for planning experiments. The number of required labeling has been reduced by 58%, the quality of the regression model has been improved by 19%
-  * Researched the uncertainty scores (total, data, knowledge) using a Bayesian ensemble of decision trees, and anomaly detection methods; researched correlation dependencies of uncertainty / abnormality scores.
+Skolkovo Institute of Science and Technology (Aug 2020 – Jul 2022, Moscow, Russia)<br>
+Researcher / Laboratory of applied research Skoltech-Sberbank.
+* Developed an active learning algorithm modified by anomaly detection for planning experiments. The number of required labeling has beenreduced by 58%, the quality of the regression model has been improved by 19%
+* Researched the uncertainty scores (total, data, knowledge) using a Bayesian ensemble of decision trees, and anomaly detection methods;researched correlation dependencies of uncertainty / abnormality scores.
 
 * Bank Orenburg (Jun 2019 – Jul 2020, Orenburg, Russia)
   * Analyst, Data Scientist / Information technology Department.
