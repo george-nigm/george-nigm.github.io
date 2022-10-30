@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* Samsung Research Russia (Jul 2021 – Present, Moscow, Russia)<br>
+* **Samsung Research Russia** (Jul 2021 – Present, Moscow, Russia)<br>
 Machine Learning R&D Engineer / Sensor Solution Team, Life Care Solutions lab.
   * Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular / Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)
   * Designed system of data quality estimation, detection erroneous measurements and classifying user usage errors based on outliers’ detection algorithms. Quality metric increased by 21% compared to heuristics.
@@ -22,8 +22,8 @@ Researcher / Laboratory of applied research Skoltech-Sberbank.
 
 * Bank Orenburg (Jun 2019 – Jul 2020, Orenburg, Russia)<br>
 Analyst, Data Scientist / Information technology Department.
-  * Forecasted the ATM daily cash demands based on Triple Exponential Smoothing, ARIMA, Neural Networks, SSA
-  * Developed a discrete model of optimal cash management in ATM branches using dynamic programming, which increased the profitabilitycompared to the classical model by 30%.
+  * Forecasted the ATM daily cash demands based on Exponential Smoothing, ARIMA, Neural Networks, SSA
+  * Developed a discrete model of optimal cash management in ATM branches on forecasted cash withdrawals using dynamic programming, which increased the profitabilitycompared to the classical model by 30%.
 
 Education
 ======
