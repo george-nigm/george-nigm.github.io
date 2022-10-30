@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is George Nigmatulin, and I am a Machine Learning R&D Engineer at Samsung Electronics, where I am doing AI algorithms for Smartwatches at Healthcare Solutions Lab. In August 2022, I received my MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
+My name is George Nigmatulin, and I work for Samsung Electronics as a Research Engineer developing AI algorithms for smartwatches in the Healthcare Solutions Lab. In August 2022, I received MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
 
-I am interested in ways to application of Causal and Bayesian methods, Predictive Modelling, Optimization to Real-World-Signals. I believe this will be made possible with an open-ended learning process, where environments constantly propose new challenges [1, 2] and agents adapt their configurations to solve them [3, 4, 5]. To make this process unbounded, I am excited by methods to actively encourage diversity [8, 9], while I believe we can eventually use world models to learn simulators purely from offline data [10, 11]. 
+I am interested in ways to application of Causal and Bayesian methods, Predictive Modelling, Optimization to Real-World-Signals. I believe this will be made systems more trustworthy and controlled by extracting associations against correlation [1, 2]. Having received this, we will be able to both construct more reliable system combinations [3, 4] and build effective strategies for predicting future system changes [5, 6, 7], while I believe we can eventually use real world data to learn causalities purely from offline data [8, 9]. 
 
-Before coming to Samsung I was a Machine Learning Researcher at Skoltech Univesity and Data Scientist at Bank Orenburg where I discovered the joys of application of machine learning to Real-World-Signals and financial data! I am originally from the Russian Federation, and studied Maths and Computer Science at Orenburg State Universiuty.
+Before coming to Samsung I was a Researcher at Skoltech Univesity and Data Scientist at Bank Orenburg where I discovered the joys of application of machine learning to Real-World-Signals and financial data! I am originally from the Russian Federation, and studied Maths and Computer Science at Orenburg State Universiuty.
 
 A data-driven personal website
 ======
