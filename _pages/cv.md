@@ -31,7 +31,6 @@ redirect_from:
 * Bachelor’s degree in applied mathematics and computer science
 * Graduation project: "Research of machine learning models for predicting and optimizing ATM service"
 * Average grade 5.0 out of 5.0 for 4 years.
-
 <br>
 
 # Professional skills
