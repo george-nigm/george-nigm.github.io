@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* Pavlov, K, A Perchik, V Tsepulin, G Megre, E. Nikolaev, E. Volkova, G Nigmatulin, and ... "Body temperature algorithm for  Wearable devices", Patent.
+* Pavlov, K, A Perchik, E. Nikolaev, E. Volkova, G Nigmatulin, and ... "Body temperature algorithm for  Wearable devices", Patent.
 
 * Pavlov, K, A Perchik, V Tsepulin, G Megre, E. Nikolaev, E. Volkova, G Nigmatulin, and ... 2022. "Sweat loss estimation algorithm for smartawches." IEEE, Communications in Computer and Information Science, Springer, in Press, no. https://arxiv.org/abs/2210.15472.
 

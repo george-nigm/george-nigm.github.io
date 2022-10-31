@@ -35,13 +35,13 @@ redirect_from:
 <br>
 
 # Professional skills
-Programming toolkit
+**Programming toolkit**:
 
 * Languages: English - Advanced C1, Russian – Native
 * Programming: Languages: C++ / C#, Python, R, Matlab, Matcad, Octave, SQL
 * DevOps: Git, DVC, Hadoop, Cookiecutter-data-science, Kedro, MLFlow, Omniboard
 
-Machine learning toolkit
+**Machine learning toolkit**:
 
 * ML packages: Scikit-learn, SciPy, LightGBM, Catboost, SHAP, Prophet, Numpy, Pandas, Matplotlib, Seaborn
 * Deep Learning: TensorFlow, PyTorch
