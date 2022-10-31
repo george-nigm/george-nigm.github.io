@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "Leadership"
 permalink: /teaching/
 author_profile: true
 ---
-## Leadership
 * Head of the Student Council (Jan 2018 – Apr 2020). Management, resources and task planning, results presentation
 * Work at international leadership forums: “AEGEE (European Students' Forum)” (Estonia, Latvia, Belgium, Netherlands, Turkey),“Eurasia Global” (Orenburg, Russia), "Japan-Russia youth summit" (Tokyo, Japan)
 
@@ -13,7 +12,6 @@ author_profile: true
 * "EY Campus" - training program on data analysis, market research, development of use cases, economics (Online)
 
 ## Hackathons & Case championships
-======
 * Hackathon "Junction" (November 2020 & 2021, Online);
 * Hackathon "Breakpoint" (March 2019, Ufa);
 * Hackathon "Digital breakthrough" semi-final (June 2019, Samara);
