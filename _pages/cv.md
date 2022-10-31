@@ -34,7 +34,7 @@ redirect_from:
 
 <br>
 
-## Programming skills
+# Programming skills
 * Languages: English - Advanced C1, Russian – Native
 * Programming: Languages: C++ / C#, Python, R, Matlab, Matcad, Octave, SQL
 * DevOps: Git, DVC, Hadoop, Cookiecutter-data-science, Kedro, MLFlow, Omniboard
