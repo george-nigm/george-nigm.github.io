@@ -32,6 +32,7 @@ redirect_from:
 * Graduation project: "Research of machine learning models for predicting and optimizing ATM service"
 * Average grade 5.0 out of 5.0 for 4 years.
 <br>
+<br>
 
 # Professional skills
 **Programming toolkit**:
