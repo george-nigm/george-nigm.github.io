@@ -32,12 +32,15 @@ redirect_from:
 * Bachelor’s degree in applied mathematics and computer science
 * Graduation project: "Research of machine learning models for predicting and optimizing ATM service"
 * Average grade 5.0 out of 5.0 for 4 years.
-
+<br>
+<br>
 
 # Programming skills
 * Languages: English - Advanced C1, Russian – Native
 * Programming: Languages: C++ / C#, Python, R, Matlab, Matcad, Octave, SQL
 * DevOps: Git, DVC, Hadoop, Cookiecutter-data-science, Kedro, MLFlow, Omniboard
+<br>
+<br>
 
 # Machine learning toolkit
 * ML packages: Scikit-learn, SciPy, LightGBM, Catboost, SHAP, Prophet, Numpy, Pandas, Matplotlib, Seaborn
