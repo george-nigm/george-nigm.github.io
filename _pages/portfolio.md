@@ -17,7 +17,7 @@ Sep 2016 - June 2020). Specialization: English language
 * International summer school of OSU "Modern Russian science and culture" (Orenburg, Russia. Sep 2018 & 2019)
 * Fall math school of Ehime University (Matsuyama, Japan. Nov 2018)
 
-## Online courses
+## Massive Open Online Courses (MOOCs)
 * Machine Learning (Course, Stanford University)
 * Deep Learning (Specialization, DeepLearning.AI)
 * Neural Networks and Deep Learning;
