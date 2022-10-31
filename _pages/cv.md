@@ -34,15 +34,19 @@ redirect_from:
 * Average grade 5.0 out of 5.0 for 4 years.
 <br>
 <br>
+<br>
 
-# Programming skills
+
+## Programming skills
 * Languages: English - Advanced C1, Russian – Native
 * Programming: Languages: C++ / C#, Python, R, Matlab, Matcad, Octave, SQL
 * DevOps: Git, DVC, Hadoop, Cookiecutter-data-science, Kedro, MLFlow, Omniboard
 <br>
 <br>
+<br>
 
-# Machine learning toolkit
+
+## Machine learning toolkit
 * ML packages: Scikit-learn, SciPy, LightGBM, Catboost, SHAP, Prophet, Numpy, Pandas, Matplotlib, Seaborn
 * Deep Learning: TensorFlow, PyTorch
 * Area of specialization**: Machine learning, Deep Learning, Causal and Bayesian methods, Predictive Modelling,
