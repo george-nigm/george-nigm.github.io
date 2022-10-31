@@ -39,12 +39,10 @@ redirect_from:
 * Programming: Languages: C++ / C#, Python, R, Matlab, Matcad, Octave, SQL
 * DevOps: Git, DVC, Hadoop, Cookiecutter-data-science, Kedro, MLFlow, Omniboard
 <br>
-<br>
-
 ## Machine learning toolkit
 * ML packages: Scikit-learn, SciPy, LightGBM, Catboost, SHAP, Prophet, Numpy, Pandas, Matplotlib, Seaborn
 * Deep Learning: TensorFlow, PyTorch
-* Area of specialization**: Machine learning, Deep Learning, Causal and Bayesian methods, Predictive Modelling,
+* Area of specialization: Machine learning, Deep Learning, Causal and Bayesian methods, Predictive Modelling,
 Uncertainty quantification, Optimal control, Quantitative Finance, System analysis, Recommender systems.
 <br>
 <br>
