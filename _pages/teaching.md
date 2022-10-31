@@ -21,6 +21,6 @@ author_profile: true
 
 ## Volunteering
 * International youth educational forum "Eurasia global", (August 2018 & 2019, Orenburg, Accompanying international speakers & VIP guests);
+* First Eurasian Digital conference (September 2018, Orenburg, Technical support).
 * Certificate of inclusive volunteering "Abilimpix" (May 2018, Orenburg, Training course of helping people with disabilities);
 * "Children – our future" (2016 - 2022 Orenburg, Help for orphanage);
-* First Eurasian Digital conference (September 2018, Orenburg, Technical support).
