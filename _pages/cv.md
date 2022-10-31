@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## Work expirience
 {% include base_path %}
 ### Samsung Research Russia (Jul 2021 – Present, Moscow, Russia) <br> Machine Learning R&D Engineer / Sensor Solutions Team, Life Care Solutions lab.
 * Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular /Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)
@@ -22,7 +21,7 @@ redirect_from:
 * Developed a Discrete model of optimal cash management in ATM branches on forecasted cash withdrawals using Dynamic programming,which increased the profitability compared to the classical model by 30%.
 <br>
 
-## Education
+# Education
 ### Moscow Institute of Physics and Technology (Sep 2020 – Jun 2022, Moscow, Russia) <br> The Interfaculty Department of Information Transmission Problems and Data Analysis.
 * Master’s degree in applied mathematics and physics / Machine learning and data analysis
 * Graduation project: “Anomaly detection aided Active learning on smart watches data”
@@ -34,12 +33,12 @@ redirect_from:
 * Average grade 5.0 out of 5.0 for 4 years.
 
 
-## Programming skills
+# Programming skills
 * Languages: English - Advanced C1, Russian – Native
 * Programming: Languages: C++ / C#, Python, R, Matlab, Matcad, Octave, SQL
 * DevOps: Git, DVC, Hadoop, Cookiecutter-data-science, Kedro, MLFlow, Omniboard
 
-## Machine learning toolkit
+# Machine learning toolkit
 * ML packages: Scikit-learn, SciPy, LightGBM, Catboost, SHAP, Prophet, Numpy, Pandas, Matplotlib, Seaborn
 * Deep Learning: TensorFlow, PyTorch
 * Area of specialization**: Machine learning, Deep Learning, Causal and Bayesian methods, Predictive Modelling,
