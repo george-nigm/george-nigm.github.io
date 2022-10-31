@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
 ### Samsung Research Russia (Jul 2021 – Present, Moscow, Russia) <br> Machine Learning R&D Engineer / Sensor Solutions Team, Life Care Solutions lab.
 * Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular /Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)
 * Designed system of Data Quality estimation, detection erroneous measurements and classifying user usage errors based onOutliers’ Detection algorithms. Quality metric increased by 21% compared to heuristics.
@@ -32,10 +31,8 @@ redirect_from:
 * Bachelor’s degree in applied mathematics and computer science
 * Graduation project: "Research of machine learning models for predicting and optimizing ATM service"
 * Average grade 5.0 out of 5.0 for 4 years.
-<br>
-<br>
-<br>
 
+<br>
 
 ## Programming skills
 * Languages: English - Advanced C1, Russian – Native
@@ -43,8 +40,6 @@ redirect_from:
 * DevOps: Git, DVC, Hadoop, Cookiecutter-data-science, Kedro, MLFlow, Omniboard
 <br>
 <br>
-<br>
-
 
 ## Machine learning toolkit
 * ML packages: Scikit-learn, SciPy, LightGBM, Catboost, SHAP, Prophet, Numpy, Pandas, Matplotlib, Seaborn
