@@ -8,8 +8,8 @@ author_profile: true
 * Work at international leadership forums: “AEGEE (European Students' Forum)” (Estonia, Latvia, Belgium, Netherlands, Turkey),“Eurasia Global” (Orenburg, Russia), "Japan-Russia youth summit" (Tokyo, Japan)
 
 ## Consulting courses
-* "KPMG Audit" - program for in-depth study of audit and IFRS aspects (Moscow, Russia)
-* "EY Campus" - training program on data analysis, market research, development of use cases, economics (Online)
+* "EY Campus" - training program on data analysis, market research, development of use cases, economics (Moscow, Russia)
+* "KPMG Audit" - program for in-depth study of audit and IFRS aspects (Online)
 
 ## Hackathons & Case championships
 * Hackathon "Junction" (November 2020 & 2021, Online);
@@ -22,5 +22,5 @@ author_profile: true
 ## Volunteering
 * International youth educational forum "Eurasia global", (August 2018 & 2019, Orenburg, Accompanying international speakers & VIP guests);
 * Certificate of inclusive volunteering "Abilimpix" (May 2018, Orenburg, Training course of helping people with disabilities);
-* "Children – our future" (September 2018, Orenburg, Help for orphanage);
+* "Children – our future" (September 2016 - 2022 Orenburg, Help for orphanage);
 * First Eurasian Digital conference (September 2018, Orenburg, Technical support).
