@@ -12,18 +12,18 @@ redirect_from:
 * **Samsung Research Russia (Jul 2021 – Present, Moscow, Russia)**<br>
 Machine Learning R&D Engineer / Sensor Solution Team, Life Care Solutions lab.
   * Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular / Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)
-  * Designed system of data quality estimation, detection erroneous measurements and classifying user usage errors based on outliers’ detection algorithms. Quality metric increased by 21% compared to heuristics.
+  * Designed system of Data Quality estimation, detection erroneous measurements and classifying user usage errors based on Outliers’ Detection algorithms. Quality metric increased by 21% compared to heuristics.
   * Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE=7.7%, R2=0.95) and Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79).
 
 * **Skolkovo Institute of Science and Technology (Aug 2020 – Jul 2022, Moscow, Russia)**<br>
 Researcher / Laboratory of applied research Skoltech-Sberbank.
-  * Developed an active learning algorithm modified by anomaly detection for planning experiments. The number of required labeling has beenreduced by 58%, the quality of the regression model has been improved by 19%.
-  * Researched the uncertainty scores (total, data, knowledge) using a Bayesian ensemble of decision trees, and anomaly detection methods; researched correlation dependencies of uncertainty / abnormality scores.
+  * Developed an Active Learning algorithm modified by Anomaly Detection for planning experiments. The number of required labeling has beenreduced by 58%, the quality of the regression model has been improved by 19%.
+  * Researched the Uncertainty Quantification (total, data, knowledge scores) using a Bayesian ensemble of decision trees, and anomaly detection methods; researched correlation dependencies of Uncertainty / Abnormality scores.
 
 * **Bank Orenburg (Jun 2019 – Jul 2020, Orenburg, Russia)**<br>
 Analyst, Data Scientist / Information technology Department.
   * Forecasted the ATM daily cash demands based on Exponential Smoothing, ARIMA, Neural Networks, SSA.
-  * Developed a discrete model of optimal cash management in ATM branches on forecasted cash withdrawals using dynamic programming, which increased the profitability compared to the classical model by 30%.
+  * Developed a Discrete model of optimal cash management in ATM branches on forecasted cash withdrawals using Dynamic programming, which increased the profitability compared to the classical model by 30%.
 
 Education
 ======
