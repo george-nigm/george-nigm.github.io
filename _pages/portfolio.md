@@ -19,25 +19,16 @@ Scientific university schools (7).
 * International summer school of OSU "Modern Russian science and culture" (Orenburg, Russia. Sep 2018 & 2019)
 * Fall math school of Ehime University (Matsuyama, Japan. Nov 2018)
 
-Hackathons & Case championships
+Online courses
 ======
-* Hackathon "Junction" (November 2020 & 2021, Online);
-* Hackathon "Breakpoint" (March 2019, Ufa);
-* Hackathon "Digital breakthrough" semi-final (June 2019, Samara);
-* Hackathon "Digital breakthrough" hackathon-final (September 2019, Kazan);
-* Case championship «McKinsey Diving» (March 2020, Online);
-* Case championship «Changellenge Cup Russia 2020» (April 2020, Online).
-
-Leadership 
-======
-* Head of the Student Council (Jan 2018 – Apr 2020). Management, resources and task planning, results presentation
-* Work at international leadership forums: “AEGEE (European Students' Forum)” (Estonia, Latvia, Belgium, Netherlands, Turkey),“Eurasia Global” (Orenburg, Russia), "Japan-Russia youth summit" (Tokyo, Japan)
-
-Volunteering
-======
-* International youth educational forum "Eurasia global", (August 2018 & 2019, Orenburg, Accompanying international speakers & VIP guests);
-* Certificate of inclusive volunteering "Abilimpix" (May 2018, Orenburg, Training course of helping people with disabilities);
-* "Children – our future" (September 2018, Orenburg, Help for orphanage);
-* First Eurasian Digital conference (September 2018, Orenburg, Technical support).
-
-
+* Machine Learning (Course, Stanford University)
+* Deep Learning (Specialization, DeepLearning.AI)
+* Neural Networks and Deep Learning;
+* Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization;
+* Structuring Machine Learning Projects;
+* Convolutional Neural Networks;
+* Sequence Models;
+* Bayesian Methods for Machine Learning (Course, Higher School of Economics)
+* Modern combinatorics (Course, Moscow Institute of Physics and Technology)
+* Graph theory (Course, Moscow Institute of Physics and Technology)
+* Crash Course on Python (Course, Google)
