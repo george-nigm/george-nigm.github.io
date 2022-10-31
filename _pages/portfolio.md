@@ -9,7 +9,7 @@ author_profile: true
 * The degree of professional training of the Translator in the field of information technology (Orenburg State University,
 Sep 2016 - June 2020). Specialization: English language
 
-## Scientific university schools (7).
+## Scientific university schools
 * Regularization Methods for Machine Learning (Machine Learning Genoa Center, Genoa, Italy. Jun 2021)
 * Mathematical Spring: An invitation to Dynamical Systems (HSE, Nizhny Novgorod, Russia. Feb 2020)
 * Winter school of computer science of the higher school of Economics (Voronovo, Russia. Feb 2020)
