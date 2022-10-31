@@ -10,11 +10,12 @@ author_profile: true
 Sep 2016 - June 2020). Specialization: English language
 
 ## Scientific university schools
-* Regularization Methods for Machine Learning (Machine Learning Genoa Center, Genoa, Italy. Jun 2021)
-* Mathematical Spring: An invitation to Dynamical Systems (HSE, Nizhny Novgorod, Russia. Feb 2020)
-* Winter school of computer science of the higher school of Economics (Voronovo, Russia. Feb 2020)
-* International winter mathematical school of the higher school of Economics (Moscow, Russia. Jan 2019)
-* International summer school of OSU "Modern Russian science and culture" (Orenburg, Russia. Sep 2018 & 2019)
+* ML2R Autumn School (The Competence Center Machine Learning Rhine-Ruhr, Germany, Oct 2021)
+* Gaussian Process Summer Schools 2021 (Sheffield, England, Sep. 2021)
+* Machine Learning Summer Schools, MLSS (Taipei, Taiwan, Aug. 2021)
+* Neuromatch Academy Deep Learning (Europe-Africa, Aug. 2021)
+* ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated (Barcelona, Spain, Aug 2021)
+* Regularization Methods for Machine Learning (Machine Learning Genoa Center, Italy. Jun 2021)
 * Fall math school of Ehime University (Matsuyama, Japan. Nov 2018)
 
 ## Massive Open Online Courses (MOOCs)
