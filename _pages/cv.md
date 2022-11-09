@@ -31,7 +31,7 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 
 
 <details>
-<summary>Bank Orenburg (Orenburg, Russia)</summary>
+<summary>Bank Orenburg (Jun 2019 – Jul 2020, Orenburg, Russia)</summary>
 <ul>
 <li> Forecasted the ATM daily cash demands based on Exponential Smoothing, ARIMA, Neural Networks, SSA.</li>
 <li> Developed a Discrete model of optimal cash management in ATM branches on forecasted cash withdrawals using Dynamic programming,which increased the profitability compared to the classical model by 30%.</li>
@@ -62,15 +62,15 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 ## Professional skills
 **Programming toolkit**:
 
-Languages: English - Advanced C1, Russian – Native <br>
-Programming: Languages: C++ / C#, Python, R, Matlab, Matcad, Octave, SQL <br>
-DevOps: Git, DVC, Hadoop, Cookiecutter-data-science, Kedro, MLFlow, Omniboard <br>
+**Languages**: English - Advanced C1, Russian – Native <br>
+**Programming**: Languages: C++ / C#, Python, R, Matlab, Matcad, Octave, SQL <br>
+**DevOps**: Git, DVC, Hadoop, Cookiecutter-data-science, Kedro, MLFlow, Omniboard <br>
 
 **Machine learning toolkit**:
 
-ML packages: Scikit-learn, SciPy, LightGBM, Catboost, SHAP, Prophet, Numpy, Pandas, Matplotlib, Seaborn <br>
-Deep Learning: TensorFlow, PyTorch <br>
-Area of specialization: Machine learning, Deep Learning, Causal and Bayesian methods, Predictive Modelling,
+**ML packages**: Scikit-learn, SciPy, LightGBM, Catboost, SHAP, Prophet, Numpy, Pandas, Matplotlib, Seaborn <br>
+**Deep Learning**: TensorFlow, PyTorch <br>
+**Area of specialization**: Machine learning, Deep Learning, Causal and Bayesian methods, Predictive Modelling,
 Uncertainty quantification, Optimal control, Quantitative Finance, System analysis, Recommender systems.
 <br>
 
