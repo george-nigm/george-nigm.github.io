@@ -20,22 +20,11 @@ Sep 2016 - June 2020). Specialization: English language
 
 ## Massive Open Online Courses (MOOCs)
 * Quantitative Finance & Algorithmic Trading in Python (Udemy, Issued Sep 2022)
-
 * Deep Learning Specialization (DeepLearning.Al, Coursera, Issued May 2021)
-    * Neural Networks and Deep Learning;
-    * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization;
-    * Structuring Machine Learning Projects;
-    * Convolutional Neural Networks;
-    * Sequence Models;
-
 * Bayesian Methods for Machine Learning (Higher School of Economics, Coursera, Issued Apr 2021)
-
 * Introduction to Machine Learning in Production (MLOps) (DeepLearning.AI, Coursera, Issued Feb 2022)
-
 * Machine Learning (Stanford University, Coursera, Issued Mar 2021)
-
-* Modern combinatorics (Moscow Institute of Physics and Technology, Coursera, Issued Apr 2021)
-
-* Graph theory (Moscow Institute of Physics and Technology, Coursera, Issued May 2021)
-
 * Crash Course on Python (Google, Coursera, Issued Mar 2021)
+* Graph theory (Moscow Institute of Physics and Technology, Coursera, Issued May 2021)
+* Modern combinatorics (Moscow Institute of Physics and Technology, Coursera, Issued Apr 2021)
+* The Science of Well-Being (Yale University, Issued Jan 2022)
