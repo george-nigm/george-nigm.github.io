@@ -29,7 +29,6 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 </ul>
 </details>
 
-
 <details>
 <summary>Bank Orenburg (Jun 2019 – Jul 2020, Orenburg, Russia)</summary>
 <ul>
@@ -37,7 +36,6 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 <li> Developed a Discrete model of optimal cash management in ATM branches on forecasted cash withdrawals using Dynamic programming,which increased the profitability compared to the classical model by 30%.</li>
 </ul>
 </details>
-
 
 ## Education
 
