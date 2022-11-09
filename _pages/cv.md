@@ -10,7 +10,7 @@ redirect_from:
 ## Work expirience
 
 <details>
-<summary>Samsung R\&D Institute Russia (Jul 2021 – Present, Moscow, Russia) <br> Machine Learning R&D Engineer / Sensor Solutions Team, Life Care Solutions lab.</summary>
+<summary>Samsung R&D Institute Russia (Jul 2021 – Present, Moscow, Russia) <br> Machine Learning R&D Engineer / Sensor Solutions Team, Life Care Solutions lab.</summary>
 <ul>
 <li> Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular
 Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)</li>
