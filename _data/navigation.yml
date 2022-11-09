@@ -7,7 +7,7 @@ main:
     url: /publications/
 
   - title: "Extracurricular activities"
-    url: /extracurricular_activities/
+    url: extracurricular_activities/
 
   - title: "Leadership"
     url: /leadership/    
