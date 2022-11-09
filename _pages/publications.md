@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: publications/
 author_profile: true
 ---
 * Nigmatulin, G, K Pavlov and A Zaytsev. 2022. "Anomaly detection aided Active Learinng." IEEE Access, in press. [Not available yet].  
