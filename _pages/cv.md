@@ -8,34 +8,18 @@ redirect_from:
 ---
 
 <details>
-<summary>Heading</summary>
-<ul>
-<li> markdown list 1</li>
-<ul>
-<li> nested list 1</li>
-<li> nested list 2</li>
-</ul>
-<li> markdown list 2</li>
-</ul>
-</details>
-
-
-
-<details>
 <summary>Samsung Research Russia (Jul 2021 – Present, Moscow, Russia) <br> Machine Learning R&D Engineer / Sensor Solutions Team, Life Care Solutions lab.</summary>
-
-+ Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular
-Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)
-
-+ Designed system of Data Quality estimation, detection erroneous measurements and classifying user usage errors basedonOutliers’
-Detection algorithms. Quality metric increased by 21% compared to heuristics.
-
-+ Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE=7.7%, R2=0.95and
-Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79).
-
+<ul>
+<li> Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular
+Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)</li>
+<li> Designed system of Data Quality estimation, detection erroneous measurements and classifying user usage errors basedonOutliers’
+Detection algorithms. Quality metric increased by 21% compared to heuristics</li>
+<li> Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE=7.7%, R2=0.95and
+Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79).</li>
+</ul>
 </details>
 
-
+<br>
 
 <details><summary>Skolkovo Institute of Science and Technology (Aug 2020 – Jul 2022, Moscow, Russia) <br> Researcher / Laboratory of applied research Skoltech-Sberbank.</summary>
 
