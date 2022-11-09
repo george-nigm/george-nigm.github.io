@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Extracurricular activities"
-permalink: /portfolio/
+permalink: extracurricular_activities/
 author_profile: true
 ---
 ## Additional degrees
