@@ -4,17 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* Nigmatulin, G, K Pavlov and A Zaytsev. 2022. "Anomaly detection aided Active Learinng." To appear in IEEE Access. [Not available yet].  
+* Nigmatulin, G, K Pavlov and A Zaytsev. 2022. "Anomaly detection aided Active Learinng." IEEE Access, in press. [Not available yet].  
 
-* Pavlov, K, A Perchik, V Tsepulin, G Megre, E. Nikolaev, E. Volkova, G Nigmatulin, L, HJ., L, WS., and K, YH. 2022. "Sweat loss estimation algorithm for smartwatches". To appear in IEEE Access. [Not available yet].
+* Pavlov, K, A Perchik, V Tsepulin, G Megre, E. Nikolaev, E. Volkova, G Nigmatulin, L, HJ., L, WS., and K, YH. 2022. "Sweat loss estimation algorithm for smartwatches". IEEE Access, in press. [Not available yet].
 
-* Volkova, E., Pavlov, K., Beliaev, K., Perchik, A., Lychagov, V., Nikolaev, E., Nigmatulin, G., Ayuev, A., Lee, HJ., Lee, WS., & Kim, YH. 2022. Body temperature algorithm for wearable devices (Patent No. to appear, classification: A61B5/681 Wristwatch-type devices). Samsung Electronics Co., Ltd. [Not available yet].
+* Volkova, E., Pavlov, K., Beliaev, K., Perchik, A., Lychagov, V., Nikolaev, E., Nigmatulin, G., Ayuev, A., Lee, HJ., Lee, WS., & Kim, YH. 2022. Body temperature algorithm for wearable devices (Patent No. in press, classification: A61B5/681 Wristwatch-type devices). Samsung Electronics Co., Ltd. [Not available yet].
 
-* Nigmatulin, G, and O Chaganova. 2021. "Research of an Optimization Model for Servicing a Network of ATMs and Information Payment Terminals." Communications in Computer and Information Science, Springer, in Press. [https://arxiv.org/abs/2210.09927](https://arxiv.org/abs/2210.09927).
+* Nigmatulin, G, and O Chaganova. 2021. "Research of an Optimization Model for Servicing a Network of ATMs and Information Payment Terminals." Communications in Computer and Information Science, Springer. [https://arxiv.org/abs/2210.09927](https://arxiv.org/abs/2210.09927).
 
 * Bolodurina, I, G Nigmatulin, and D Parfenov. 2020. "Intersection of Triangles in Space
 Based on Cutting Off Segment." Communications in Computer and Information Science,
-Springer, in Press, [https://arxiv.org/abs/2210.15472](https://arxiv.org/abs/2210.15472).
+Springer. [https://arxiv.org/abs/2210.15472](https://arxiv.org/abs/2210.15472).
 
 * Nigmatulin, G. 2019. "Predicting Study Time in an Online Course System Based on Machine
 Learning Methods." In Book of Abstracts for the School-Conference "Invitation to Dynamical
