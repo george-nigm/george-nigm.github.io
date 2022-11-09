@@ -4,7 +4,7 @@ title: "Leadership"
 permalink: /teaching/
 author_profile: true
 ---
-* Work at international leadership forums: "Japan-Russia youth summit" (Tokyo, Japan), “AEGEE (European Students' Forum)” (Estonia, Latvia, Belgium, Netherlands, Turkey),“Eurasia Global” (Orenburg, Russia)
+* Work at international leadership forums: "Japan-Russia youth summit" (Tokyo, Japan), “AEGEE, European Students' Forum (Estonia, Latvia, Belgium, Netherlands, Turkey), “Eurasia Global” (Orenburg, Russia)
 * Head of the Student Council (Jan 2018 – Apr 2020). Management, resources and task planning, results presentation.
 
 ## Hackathons & Case championships
