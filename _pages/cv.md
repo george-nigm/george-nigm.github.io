@@ -7,6 +7,20 @@ redirect_from:
   - /resume
 ---
 
+<details><summary>Cool Dropdown #1</summary><br/>
+
+[Or a link - like to google](https://google.com)
+
+- Or a List
+  - or a nested List
+  - like this
+  - with 😊 emojis
+- Like this
+
+</details>
+
+
+
 <details>
 <summary>Samsung Research Russia (Jul 2021 – Present, Moscow, Russia) <br> Machine Learning R&D Engineer / Sensor Solutions Team, Life Care Solutions lab.</summary>
 
@@ -21,20 +35,7 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 
 </details>
 
-<details>
-<summary>Heading1</summary>
 
-some text
-+ <details>
-    <summary>Heading1.1</summary>
-
-    some more text
-    + <details>
-        <summary>Heading1.1.1</summary>
-        even more text
-      </details>
-   </details>
-</details>
 
 <details><summary>Skolkovo Institute of Science and Technology (Aug 2020 – Jul 2022, Moscow, Russia) <br> Researcher / Laboratory of applied research Skoltech-Sberbank.</summary>
 
