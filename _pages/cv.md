@@ -42,18 +42,18 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 ## Education
 
 <details>
-<summary>Moscow Institute of Physics and Technology (Sep 2020 – Jun 2022, Moscow, Russia) <br> The Interfaculty Department of Information Transmission Problems and Data Analysis.</summary>
+<summary>Moscow Institute of Physics and Technology (Sep 2020 – Jun 2022, Moscow, Russia) <br> Master’s degree in applied mathematics and physics / Machine learning and data analysis.</summary>
 <ul>
-<li> Master’s degree in applied mathematics and physics / Machine learning and data analysis</li>
+<li> The Interfaculty Department of Information Transmission Problems and Data Analysis</li>
 <li> Graduation project: “Anomaly detection aided Active learning on smart watches data”</li>
 <li> Average grade 4.8 out of 5.0 for 2 years.</li>
 </ul>
 </details>
 
 <details>
-<summary>Orenburg State University (Sep 2016 – Jun 2020, Orenburg, Russia) <br> Department of Math and information technology.</summary>
+<summary>Orenburg State University (Sep 2016 – Jun 2020, Orenburg, Russia) <br> Bachelor’s degree in applied mathematics and computer science.</summary>
 <ul>
-<li> Bachelor’s degree in applied mathematics and computer science</li>
+<li> Department of Math and information technology</li>
 <li> Graduation project: "Research of machine learning models for predicting and optimizing ATM service"</li>
 <li> Average grade 5.0 out of 5.0 for 4 years.</li>
 </ul>
