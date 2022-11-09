@@ -62,17 +62,16 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 ## Professional skills
 **Programming toolkit**:
 
-* Languages: English - Advanced C1, Russian – Native
-* Programming: Languages: C++ / C#, Python, R, Matlab, Matcad, Octave, SQL
-* DevOps: Git, DVC, Hadoop, Cookiecutter-data-science, Kedro, MLFlow, Omniboard
+Languages: English - Advanced C1, Russian – Native
+Programming: Languages: C++ / C#, Python, R, Matlab, Matcad, Octave, SQL
+DevOps: Git, DVC, Hadoop, Cookiecutter-data-science, Kedro, MLFlow, Omniboard
 
 **Machine learning toolkit**:
 
-* ML packages: Scikit-learn, SciPy, LightGBM, Catboost, SHAP, Prophet, Numpy, Pandas, Matplotlib, Seaborn
-* Deep Learning: TensorFlow, PyTorch
-* Area of specialization: Machine learning, Deep Learning, Causal and Bayesian methods, Predictive Modelling,
+ML packages: Scikit-learn, SciPy, LightGBM, Catboost, SHAP, Prophet, Numpy, Pandas, Matplotlib, Seaborn
+Deep Learning: TensorFlow, PyTorch
+Area of specialization: Machine learning, Deep Learning, Causal and Bayesian methods, Predictive Modelling,
 Uncertainty quantification, Optimal control, Quantitative Finance, System analysis, Recommender systems.
-<br>
 <br>
 
 ## Pdf version of Curriculum Vitae
