@@ -7,16 +7,16 @@ redirect_from:
   - /resume
 ---
 
-<details><summary>Cool Dropdown #1</summary><br/>
-
-[Or a link - like to google](https://google.com)
-
-- Or a List
-  - or a nested List
-  - like this
-  - with 😊 emojis
-- Like this
-
+<details>
+<summary>Heading</summary>
+<ul>
+<li> markdown list 1</li>
+<ul>
+<li> nested list 1</li>
+<li> nested list 2</li>
+</ul>
+<li> markdown list 2</li>
+</ul>
 </details>
 
 
