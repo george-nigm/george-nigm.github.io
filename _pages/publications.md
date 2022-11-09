@@ -8,7 +8,7 @@ author_profile: true
 
 * Pavlov, K, A Perchik, V Tsepulin, G Megre, E. Nikolaev, E. Volkova, G Nigmatulin, L, HJ., L, WS., and K, YH. 2022. "Sweat loss estimation algorithm for smartwatches". To appear in IEEE Access. [Not available yet].
 
-* Volkova, E., Pavlov, K., Beliaev, K., Perchik, A., Lychagov, V., Nikolaev, E., Nigmatulin, G., Ayuev, A., Lee, HJ., Lee, WS., & Kim, YH. (2022). Body temperature algorithm for wearable devices (Patent No. to appear, classification: A61B5/681 Wristwatch-type devices). Samsung Electronics Co., Ltd. [Not available yet].
+* Volkova, E., Pavlov, K., Beliaev, K., Perchik, A., Lychagov, V., Nikolaev, E., Nigmatulin, G., Ayuev, A., Lee, HJ., Lee, WS., & Kim, YH. 2022. Body temperature algorithm for wearable devices (Patent No. to appear, classification: A61B5/681 Wristwatch-type devices). Samsung Electronics Co., Ltd. [Not available yet].
 
 * Nigmatulin, G, and O Chaganova. 2021. "Research of an Optimization Model for Servicing a Network of ATMs and Information Payment Terminals." Communications in Computer and Information Science, Springer, in Press. https://arxiv.org/abs/2210.09927.
 
