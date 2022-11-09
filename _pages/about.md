@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is George Nigmatulin, I'm a Research Engineer at Samsung Electronics, working in the Healthcare Solutions Lab on AI algorithms for smartwatches. In August 2022, I received MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
+My name is George Nigmatulin, I'm a Research Engineer at Samsung R&D Institute Russia, working in the Healthcare Solutions Lab on AI algorithms for smartwatches. In August 2022, I received MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
 
 I have a general interest in Mathematical Finance and its interplay with Probability Theory and Statistics. My main focus is on robust approach to Mathematical Finance and data-driven paradigm in modelling and optimisation. The ensuing problems are often interdisciplinary. In particular, I am currently involved with employment of Deep Learning models to biomedical and accelerometr based systems and optimal transport theory, both its theory and numerical methods.
 
