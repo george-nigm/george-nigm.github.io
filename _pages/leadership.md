@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Leadership"
-permalink: /teaching/
+permalink: /leadership/
 author_profile: true
 ---
 * Work at international leadership forums: "Japan-Russia youth summit" (Tokyo, Japan), “AEGEE, European Students' Forum (Estonia, Latvia, Belgium, Netherlands, Turkey), “Eurasia Global” (Orenburg, Russia)
