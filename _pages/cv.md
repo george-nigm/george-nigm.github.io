@@ -72,5 +72,6 @@ Deep Learning: TensorFlow, PyTorch <br>
 Area of specialization: Machine learning, Deep Learning, Causal and Bayesian methods, Predictive Modelling,
 Uncertainty quantification, Optimal control, Quantitative Finance, System analysis, Recommender systems. <br>
 <br>
+<br>
 
-### Pdf version of Curriculum Vitae: [https://drive.google.com/file/d/1OAw8j10wZ03Zpw-I1ErUTdfDEHKehBB-/view?usp=share_link](https://drive.google.com/file/d/1OAw8j10wZ03Zpw-I1ErUTdfDEHKehBB-/view?usp=share_link)
+Pdf version of Curriculum Vitae: [https://drive.google.com/file/d/1OAw8j10wZ03Zpw-I1ErUTdfDEHKehBB-/view?usp=share_link](https://drive.google.com/file/d/1OAw8j10wZ03Zpw-I1ErUTdfDEHKehBB-/view?usp=share_link)
