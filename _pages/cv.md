@@ -31,7 +31,7 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 
 
 <details>
-<summary></summary>
+<summary>Bank Orenburg (Orenburg, Russia)</summary>
 <ul>
 <li> Forecasted the ATM daily cash demands based on Exponential Smoothing, ARIMA, Neural Networks, SSA.</li>
 <li> Developed a Discrete model of optimal cash management in ATM branches on forecasted cash withdrawals using Dynamic programming,which increased the profitability compared to the classical model by 30%.</li>
@@ -42,6 +42,24 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 ## Education
 
 <details>
+<summary>Moscow Institute of Physics and Technology (Sep 2020 – Jun 2022, Moscow, Russia) <br> The Interfaculty Department of Information Transmission Problems and Data Analysis.</summary>
+<ul>
+<li> Master’s degree in applied mathematics and physics / Machine learning and data analysis</li>
+<li> Graduation project: “Anomaly detection aided Active learning on smart watches data”</li>
+<li> Average grade 4.8 out of 5.0 for 2 years.</li>
+</ul>
+</details>
+
+<details>
+<summary>Orenburg State University (Sep 2016 – Jun 2020, Orenburg, Russia) <br> Department of Math and information technology.</summary>
+<ul>
+<li> Bachelor’s degree in applied mathematics and computer science</li>
+<li> Graduation project: "Research of machine learning models for predicting and optimizing ATM service"</li>
+<li> Average grade 5.0 out of 5.0 for 4 years.</li>
+</ul>
+</details>
+
+<details>
 <summary></summary>
 <ul>
 <li> </li>
@@ -49,20 +67,10 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 </ul>
 </details>
 
-
-### Moscow Institute of Physics and Technology (Sep 2020 – Jun 2022, Moscow, Russia) <br> The Interfaculty Department of Information Transmission Problems and Data Analysis.
-* Master’s degree in applied mathematics and physics / Machine learning and data analysis
-* Graduation project: “Anomaly detection aided Active learning on smart watches data”
-* Average grade 4.8 out of 5.0 for 2 years.
-
-### Orenburg State University (Sep 2016 – Jun 2020, Orenburg, Russia) <br> Department of Math and information technology.
-* Bachelor’s degree in applied mathematics and computer science
-* Graduation project: "Research of machine learning models for predicting and optimizing ATM service"
-* Average grade 5.0 out of 5.0 for 4 years.
 <br>
 <br>
 
-# Professional skills
+## Professional skills
 **Programming toolkit**:
 
 * Languages: English - Advanced C1, Russian – Native
