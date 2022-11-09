@@ -27,4 +27,5 @@ Sep 2016 - June 2020). Specialization: English language
 * Crash Course on Python (Google, Coursera, Issued Mar 2021)
 * Graph theory (Moscow Institute of Physics and Technology, Coursera, Issued May 2021)
 * Modern combinatorics (Moscow Institute of Physics and Technology, Coursera, Issued Apr 2021)
+* Emotional and Social Intelligence (Davis University of California, Coursera, Issued Dec 2021)
 * The Science of Well-Being (Yale University, Issued Jan 2022)
