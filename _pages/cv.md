@@ -59,17 +59,6 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 </ul>
 </details>
 
-<details>
-<summary></summary>
-<ul>
-<li> </li>
-<li> </li>
-</ul>
-</details>
-
-<br>
-<br>
-
 ## Professional skills
 **Programming toolkit**:
 
