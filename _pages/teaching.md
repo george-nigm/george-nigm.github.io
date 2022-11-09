@@ -13,7 +13,7 @@ author_profile: true
 * Hackathon "Digital breakthrough" semi-final (June 2019, Samara)
 * Hackathon "Digital breakthrough" hackathon-final (September 2019, Kazan)
 * Case championship «McKinsey Diving» (March 2020, Online)
-* Case championship «Changellenge Cup Russia 2020» (April 2020, Online).Consulting courses.
+* Case championship «Changellenge Cup Russia 2020» (April 2020, Online).
 
 ## Consulting courses
 * "EY Campus" - training program on data analysis, market research, development of use cases, economics (Moscow, Russia)
