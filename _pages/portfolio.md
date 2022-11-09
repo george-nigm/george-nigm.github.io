@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 ## Additional degrees
-* The degree of professional training of a financial Quantitative Analyst (Moscow State University, Sep 2022 – exp. Jan 2022)
+* The degree of professional training of a financial Quantitative Analyst (Moscow State University, Sep 2022 – exp. Jan 2023)
 * The degree of professional training of the Translator in the field of information technology (Orenburg State University,
 Sep 2016 - June 2020). Specialization: English language.
 
