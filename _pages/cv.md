@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 <br>
-<br>
 
 <details>
 <summary>Samsung Research Russia (Jul 2021 – Present, Moscow, Russia) <br> Machine Learning R&D Engineer / Sensor Solutions Team, Life Care Solutions lab.</summary>
@@ -18,6 +17,17 @@ redirect_from:
   * Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE=7.7%, R2=0.95and Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79).
 
 </details>
+
+<details>
+<summary>Heading</summary>
+<!--All you need is a blank line-->
+
+    + markdown list 1
+        + nested list 1
+        + nested list 2
+    + markdown list 2
+</details>
+
 
 <details><summary>Skolkovo Institute of Science and Technology (Aug 2020 – Jul 2022, Moscow, Russia) <br> Researcher / Laboratory of applied research Skoltech-Sberbank.</summary>
 
