@@ -7,42 +7,34 @@ redirect_from:
   - /resume
 ---
 
-<br>
-
 <details>
 <summary>Samsung Research Russia (Jul 2021 – Present, Moscow, Russia) <br> Machine Learning R&D Engineer / Sensor Solutions Team, Life Care Solutions lab.</summary>
 
-  *  Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)
-  * Designed system of Data Quality estimation, detection erroneous measurements and classifying user usage errors basedonOutliers’ Detection algorithms. Quality metric increased by 21% compared to heuristics.
-  * Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE=7.7%, R2=0.95and Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79).
++ Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular
+Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)
+
++ Designed system of Data Quality estimation, detection erroneous measurements and classifying user usage errors basedonOutliers’
+Detection algorithms. Quality metric increased by 21% compared to heuristics.
+
++ Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE=7.7%, R2=0.95and
+Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79).
 
 </details>
 
 <details>
-<summary>Heading</summary>
-<!--All you need is a blank line-->
+<summary>Heading1</summary>
 
-  + markdown list 1
+some text
++ <details>
+    <summary>Heading1.1</summary>
 
-    + nested list 1
-    
-        + nested list 2
-        
-    + markdown list 2
+    some more text
+    + <details>
+        <summary>Heading1.1.1</summary>
+        even more text
+      </details>
+   </details>
 </details>
-
-<summary>Heading</summary>
-<!--All you need is a blank line-->
-
-    + markdown list 1
-
-      + nested list 1
-      
-          + nested list 2
-          
-      + markdown list 2
-</details>
-
 
 <details><summary>Skolkovo Institute of Science and Technology (Aug 2020 – Jul 2022, Moscow, Russia) <br> Researcher / Laboratory of applied research Skoltech-Sberbank.</summary>
 
