@@ -18,23 +18,22 @@ Springer, in Press, [https://arxiv.org/abs/2210.15472](https://arxiv.org/abs/221
 
 * Nigmatulin, G. 2019. "Predicting Study Time in an Online Course System Based on Machine
 Learning Methods." In Book of Abstracts for the School-Conference "Invitation to Dynamical
-Systems, 2020". Higher School of Economics.
+Systems, 2020". Higher School of Economics. [https://cupdf.com/document/book-of-abstracts-higher-school-of-economics-according-to-3-4-for-any-gradient-like.html?page=1](https://cupdf.com/document/book-of-abstracts)
 
 * Nigmatulin, G, and I Bolodurina. 2019. "Comparative Analysis of the Methods of Training
-Recurrent Neural Network (Rus.).'
-Step into Science, no. 2: 50-52.
+Recurrent Neural Network (Rus.). Step into Science, no. 2: 50-52. [https://www.elibrary.ru/item.asp?id=41105398](https://www.elibrary.ru/item.asp?id=41105398)
 
 * Nigmatulin, G, D Parfenov, I Bolodurina, and Zaporozhko. V. 2019. "Solving the Problem of
 Categorical Regression Using Neural Networks and Gradient Boosting to Predict the
 Academic Performance at MOOCS (Rus.)." In University Complex as a Regional Center of
-Education, Science and Culture, 1529-33.
+Education, Science and Culture, 1529-33. [https://elibrary.ru/item.asp?id=42532268](https://elibrary.ru/item.asp?id=42532268)
 
 * Parfenov, D, G Nigmatulin, V Zaporozhko, and L Zabrodina. 2019. "Prototype of the Module
 for the Intelligent Formation of an Individual Educational Trajectory of a Student for a
-Digital Platform (Rus.)."
+Digital Platform (Rus.)." [https://www.elibrary.ru/item.asp?id=42587112](https://www.elibrary.ru/item.asp?id=42587112)
 
 * Shchepacheva, N, and G Nigmatulin. 2018. "Analysis of the Company's Activities Based on
-Chaos Theory (Rus.)." Step into a Science, no. 3: 35-38.
+Chaos Theory (Rus.)." Step into a Science, no. 3: 35-38. [https://www.elibrary.ru/item.asp?id=38564592](https://www.elibrary.ru/item.asp?id=38564592)
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
