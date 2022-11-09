@@ -13,10 +13,9 @@ redirect_from:
 <details>
 <summary>Samsung Research Russia (Jul 2021 – Present, Moscow, Russia) <br> Machine Learning R&D Engineer / Sensor Solutions Team, Life Care Solutions lab.</summary>
 
-
-*  Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)
-* Designed system of Data Quality estimation, detection erroneous measurements and classifying user usage errors basedonOutliers’ Detection algorithms. Quality metric increased by 21% compared to heuristics.
-* Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE=7.7%, R2=0.95and Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79).
+  *  Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)
+  * Designed system of Data Quality estimation, detection erroneous measurements and classifying user usage errors basedonOutliers’ Detection algorithms. Quality metric increased by 21% compared to heuristics.
+  * Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE=7.7%, R2=0.95and Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79).
 
 </details>
 
