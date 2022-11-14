@@ -30,7 +30,7 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 </details>
 
 <details>
-<summary>Bank Orenburg (Jun 2019 – Jul 2020, Orenburg, Russia)</summary>
+<summary>Bank Orenburg (Jun 2019 – Jul 2020, Orenburg, Russia) <br> Analyst, Data Scientist.</summary>
 <ul>
 <li> Forecasted the ATM daily cash demands based on Exponential Smoothing, ARIMA, Neural Networks, SSA.</li>
 <li> Developed a Discrete model of optimal cash management in ATM branches on forecasted cash withdrawals using Dynamic programming,which increased the profitability compared to the classical model by 30%.</li>
