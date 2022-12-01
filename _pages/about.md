@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is George Nigmatulin, I'm a Machine Learning Research Engineer at Samsung R&D Institute Russia, working in the Healthcare Solutions Lab on AI algorithms for smartwatches. In August 2022, I received MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
+My name is George Nigmatulin, I’m a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new features on AI algorithms for smartwatches. In August 2022, I received MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
 
-I have a general interest in Mathematical Finance and its interplay with Probability Theory and Statistics. My main focus is on robust approach to Mathematical Finance and data-driven paradigm in modelling and optimisation. The ensuing problems are often interdisciplinary. In particular, I am currently involved with employment of Deep Learning models to biomedical and accelerometr based systems and optimal transport theory, both its theory and numerical methods.
+I have a great passion for applying machine (deep) learning, predictive analytics, optimization and stochastic control to tasks in the field of quantitative finance, such as dynamic asset allocation, stochastic control and mathematical models of financial derivatives. With these tools, I would like to understand cause-and-effect connections and try to use them for optimal decision-making in global markets. Since OMI is the leading place where such instruments are used for financial tasks, I believe it is possible to do high-quality academic research in that place.
 
-My main focus of my research is an application of Causal and Bayesian methods, Predictive Modelling, Optimization to Real-World-Signals Systems. I believe this will be made systems more trustworthy and controlled by extracting associations against correlation [1, 2]. Having received this, we will be able to both construct more reliable system combinations [3, 4] and build effective strategies for predicting future system changes [5, 6, 7], while I believe we can eventually use real world data to learn causalities purely from offline data [8, 9]. 
+My research experience, which I am engaged in at Samsung R&D Institute Russia now, has strengthened my skills in industrial research, creating new features and end-to-end development of systems for smartwatches with sensors that use state-of-the-art ML algorithms. In academic research, I have been engaged in the fields of Uncertainty quantification, Anomaly detection, and Deep Learning in Active learning in the joint laboratory of Skoltech and Sberbank. Finance has always intrigued me as a domain. I have relative experience working with Predictive modeling in a bank "Orenburg", where I used forecasting algorithms on time series to predict the cash needs of ATMs and developed a discrete system that Optimizes cash management.
 
-Before coming to Samsung I was a Researcher at Skoltech Univesity and Data Scientist at Bank Orenburg where I discovered the joys of application of machine learning to Real-World-Signals and financial data! I am originally from the Russian Federation, and studied Maths and Computer Science at Orenburg State Universiuty.
 
 <!-- 
 ======
