@@ -12,7 +12,7 @@ My name is Georgii "George" Nigmatulin, I’m a Machine Learning Research Engine
 
 I have a great passion for applying machine (deep) learning, predictive analytics, optimization and stochastic control to tasks in the field of quantitative finance, such as dynamic asset allocation, stochastic control and mathematical models of financial derivatives. 
 
-My research experience, which I am engaged now in at Samsung R&D Institute Russia, touches industrial research, creating new features and end-to-end development of systems for smartwatches with sensors that use state-of-the-art ML algorithms. In academic research, I have been engaged in the fields of Uncertainty quantification, Anomaly detection, Deep Learning in Active learning in the joint laboratory of Skoltech and Sberbank. Finance has always intrigued me as a domain. I have relative experience working with Predictive modeling in Orenburg bank, where I used forecasting algorithms on time series to predict the cash needs of ATMs and developed a discrete system that Optimizes cash management.
+My research experience, which I am engaged now in at Samsung R&D Institute Russia, touches industrial research, creating new features and end-to-end development of systems for smartwatches with sensors that use ML algorithms. In academic research, I have been engaged in the fields of Uncertainty quantification, Anomaly detection, Deep Learning in Active learning in the joint laboratory of Skoltech and Sberbank. Also, I've worked on predictive modeling for a bank Orenburg, where I predicted the cash requirements for ATMs using forecasting algorithms on time series and created a discrete system that optimizes cash management.
 
 
 <!-- 
