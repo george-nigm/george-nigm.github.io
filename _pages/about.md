@@ -11,7 +11,7 @@ redirect_from:
 
 My name is Georgii "George" Nigmatulin, I’m a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new features on AI algorithms for smartwatches. In July 2022, I received MSs in Applied Mathematics and Physics, specializing in machine learning, after finishing my studies at the Moscow Institute of Physics and Technology.
 
-I have a great passion for applying machine (deep) learning, multivariate statistics, causal and bayesian methods, predictive analytics, optimization and stochastic control to tasks in the field of financial modeling, particularly to risk / portfolio optimization, dynamic asset allocation, stochastic control and mathematical models of financial derivatives. 
+I have a great passion for applying machine (deep) learning, multivariate statistics, causal and bayesian methods, predictive analytics and optimization to tasks in the field of financial modeling, particularly to risk / portfolio optimization, dynamic asset allocation, stochastic control, market dependency structure and mathematical models of financial derivatives. 
 
 My research experience, which I am engaged in now at Samsung, touches industrial research, creating new features and end-to-end development of systems for smartwatches with sensors that use ML algorithms. In academic research, I have been engaged in the fields of Uncertainty quantification, Anomaly detection, Deep Learning in Active learning in the joint laboratory of Skoltech and Sberbank. Also, I’ve worked on predictive modeling for a "Bank Orenburg" JSC., where I predicted the cash requirements for ATMs using forecasting algorithms on time series and created a discrete system that optimizes cash management.
 
