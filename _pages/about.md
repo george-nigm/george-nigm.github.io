@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>body {text-align: justify}</style>
 
 My name is Georgii "George" Nigmatulin, I’m a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new features on AI algorithms for smartwatches. In August 2022, I received MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
 
