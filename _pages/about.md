@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is George Nigmatulin, I’m a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new features on AI algorithms for smartwatches. In August 2022, I received MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
+My name is Georgii "George" Nigmatulin, I’m a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new features on AI algorithms for smartwatches. In August 2022, I received MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
 
 I have a great passion for applying machine (deep) learning, predictive analytics, optimization and stochastic control to tasks in the field of quantitative finance, such as dynamic asset allocation, stochastic control and mathematical models of financial derivatives. 
 
