@@ -17,7 +17,9 @@ I have a great passion for applying machine (deep) learning, causal and bayesian
 
 <!-- I have a great passion for applying machine (deep) learning, multivariate statistics, causal and bayesian methods, predictive analytics and optimization to tasks in the field of financial modeling, particularly to risk / portfolio optimization, market dependency structure, stochastic control and mathematical models of financial derivatives.  -->
 
-My research experience, which I'm currently engaged in at Samsung, concerns proceding a signals by ML algorithms, dependency structure, end-to-end development of new features. In academic research, I've worked in the fields of Uncertainty quantification, Anomaly detection, Deep Learning and Active learning in the Skoltech-Sberbank joint laboratory. Previously at "Bank Orenburg", I was engaged in predictive modeling of withdrawals from ATM networks and created a discrete optimization system that controls cash management.
+My research experience, which I'm currently engaged in at Samsung, concerns proceeding signals by ML algorithms, dependency structure, end-to-end development of new features. In academic research, I've worked in the fields of Uncertainty quantification, Anomaly detection, Deep Learning and Active learning in the Skoltech-Sberbank joint laboratory. Previously at "Bank Orenburg", I was engaged in predictive modeling of withdrawals from ATM networks and created a discrete optimization system that controls cash management.
+
+
 
 
 
