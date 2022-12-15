@@ -9,9 +9,11 @@ redirect_from:
 ---
 <style>body {text-align: justify}</style>
 
-My name is Georgii "George" Nigmatulin, I’m a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new features on AI algorithms for smartwatches. In July 2022, I received MSs in Applied Mathematics and Physics, specializing in machine learning, after finishing my studies at the Moscow Institute of Physics and Technology.
+My name is Georgii "George" Nigmatulin, I'm a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new AI features for smartwatches based on time-series sensor signals. In July 2022, I received MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
 
-I have a great passion for applying machine (deep) learning, network analysis, causal and bayesian methods, stochastic control and optimization, predictive analytics to tasks in the field of financial modeling, particularly to market dependency structure, risk / portfolio optimization, forecasting and mathematical models of financial derivatives. 
+<!-- My name is Georgii "George" Nigmatulin, I’m a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new features on AI algorithms for smartwatches. In July 2022, I received MSs in Applied Mathematics and Physics, specializing in machine learning, after finishing my studies at the Moscow Institute of Physics and Technology. -->
+
+I have a great passion for applying machine (deep) learning, network analysis, causal and bayesian methods, stochastic control and optimization, predictive analytics to problems in the field of financial modeling, particularly to risk / portfolio optimization, market dependency structure, forecasting and mathematical models of financial derivatives. 
 
 <!-- I have a great passion for applying machine (deep) learning, multivariate statistics, causal and bayesian methods, predictive analytics and optimization to tasks in the field of financial modeling, particularly to risk / portfolio optimization, market dependency structure, stochastic control and mathematical models of financial derivatives.  -->
 
