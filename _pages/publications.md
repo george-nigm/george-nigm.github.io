@@ -9,7 +9,7 @@ author_profile: true
 
 * Nigmatulin, G, K Pavlov and A Zaytsev. 2022. "Anomaly detection aided Active Learinng." Submitted for publication. [Not available yet].  
 
-* Volkova, E., Pavlov, K., Beliaev, K., Perchik, A., Lychagov, V., Nikolaev, E., Nigmatulin, G., Ayuev, A., Lee, HJ., Lee, WS., & Kim, YH. 2022. Body temperature algorithm for wearable devices [Patent No. WR-202210-007-1-RU0].
+* Volkova, E., Pavlov, K., Beliaev, K., Perchik, A., Lychagov, V., Nikolaev, E., Nigmatulin, G., Ayuev, A., Lee, HJ., Lee, WS., & Kim, YH. 2022. Body temperature algorithm for wearable devices. Patent No. [WR-202210-007-1-RU0](WR-202210-007-1-RU0).
 
 * Nigmatulin, G, and O Chaganova. 2021. "Research of an Optimization Model for Servicing a Network of ATMs and Information Payment Terminals." Communications in Computer and Information Science, Springer. [https://arxiv.org/abs/2210.09927](https://arxiv.org/abs/2210.09927).
 
