@@ -5,7 +5,7 @@ permalink: publications/
 author_profile: true
 ---
 
-* Pavlov, G., Perchik, A., Tsepulin, V., Megre, G., Nikolaev, E., Volkova, E., K, Nigmatulin, L, HJ., L, WS., and K, YH. 2022. "Sweat loss estimation algorithm for smartwatches." IEEE Access, vol. 11, pp. 23926-23934, 2023, [https://ieeexplore.ieee.org/document/10061707](https://ieeexplore.ieee.org/document/10061707).
+* Pavlov, K., Perchik, A., Tsepulin, V., Megre, G., Nikolaev, E., Volkova, E., G, Nigmatulin, L, HJ., L, WS., and K, YH. 2022. "Sweat loss estimation algorithm for smartwatches." IEEE Access, vol. 11, pp. 23926-23934, 2023, [https://ieeexplore.ieee.org/document/10061707](https://ieeexplore.ieee.org/document/10061707).
 
 * Nigmatulin, G, K Pavlov and A Zaytsev. 2022. "Anomaly detection aided Active Learinng." Submitted for publication. [Not available yet].  
 
