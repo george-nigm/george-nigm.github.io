@@ -5,9 +5,9 @@ permalink: publications/
 author_profile: true
 ---
 
-* Pavlov, K., Perchik, A., Tsepulin, V., Megre, G., Nikolaev, E., Volkova, E., Nigmatulin, G., L, HJ., L, WS., and K, YH. 2022. "Sweat loss estimation algorithm for smartwatches." IEEE Access, vol. 11, pp. 23926-23934, 2023, [https://ieeexplore.ieee.org/document/10061707](https://ieeexplore.ieee.org/document/10061707).
-
 * Nigmatulin, G, K Pavlov and A Zaytsev. 2022. "Anomaly detection aided Active Learinng." Submitted for publication. [Not available yet].  
+
+* Pavlov, K., Perchik, A., Tsepulin, V., Megre, G., Nikolaev, E., Volkova, E., Nigmatulin, G., L, HJ., L, WS., and K, YH. 2022. "Sweat loss estimation algorithm for smartwatches." IEEE Access, vol. 11, pp. 23926-23934, 2023, [https://ieeexplore.ieee.org/document/10061707](https://ieeexplore.ieee.org/document/10061707).
 
 * Volkova, E., Pavlov, K., Beliaev, K., Perchik, A., Lychagov, V., Nikolaev, E., Nigmatulin, G., Ayuev, A., Lee, HJ., Lee, WS., & Kim, YH. 2022. Body temperature algorithm for wearable devices. Patent No. [WR-202210-007-1-RU0](WR-202210-007-1-RU0).
 
