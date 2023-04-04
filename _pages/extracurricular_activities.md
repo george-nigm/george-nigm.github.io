@@ -10,9 +10,9 @@ author_profile: true
 Sep 2016 - June 2020). Specialization: English language.
 
 ## Scientific university schools
-* Oxford Machine Learning Summer School (AI for Global Goals, Oxford, exp. Jul 2023)
+* Oxford Machine Learning School (Oxford, United Kingdom, exp. Jul 2023)
 * ML2R Autumn School (The Competence Center Machine Learning Rhine-Ruhr, Germany, Oct 2021)
-* Gaussian Process Summer Schools 2021 (Sheffield, England, Sep. 2021)
+* Gaussian Process Summer Schools 2021 (Sheffield, United Kingdom, Sep. 2021)
 * Machine Learning Summer Schools, MLSS (Taipei, Taiwan, Aug. 2021)
 * Neuromatch Academy Deep Learning (Europe-Africa, Aug. 2021)
 * ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated (Barcelona, Spain, Aug 2021)
