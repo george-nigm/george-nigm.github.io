@@ -5,7 +5,7 @@ permalink: publications/
 author_profile: true
 ---
 
-* Beliaev, K, K Pavlov,E Nikolaev, A Perchik, A Ayuev, G Nigmatulin, E Volkova, W Lee and S Jung. 2023. "Body temperature solution for Smartwatch." Submitted for publication. [Not available yet].
+* Beliaev, K, K Pavlov, E Nikolaev, A Perchik, A Ayuev, G Nigmatulin, E Volkova, W Lee and S Jung. 2023. "Body temperature solution for Smartwatch." Submitted for publication. [Not available yet].
 
 * Nigmatulin, G, K Pavlov and A Zaytsev. 2023. "Anomaly detection aided Active Learinng." Submitted for publication. [Not available yet].  
 
