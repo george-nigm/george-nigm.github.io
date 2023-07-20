@@ -1,2 +1,5 @@
 _site/
 
+.DS_Store
+
+add mac file .DS_Store to gitignore
