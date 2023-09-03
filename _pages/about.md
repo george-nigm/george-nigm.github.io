@@ -13,7 +13,12 @@ My name is Georgii "George" Nigmatulin, I'm a Machine Learning Research Engineer
 
 <!-- My name is Georgii "George" Nigmatulin, I’m a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new features on AI algorithms for smartwatches. In July 2022, I received MSs in Applied Mathematics and Physics, specializing in machine learning, after finishing my studies at the Moscow Institute of Physics and Technology. -->
 
-I have a great passion for applying machine (deep) learning, causal and bayesian methods, predictive analytics to problems in the field of financial modeling, particularly to risk and portfolio optimization, market dependency structure, forecasting and mathematical models of financial derivatives. I'm also drawn to specific areas like counterfactual predictions, graph neural networks for time series networks, pattern recognition, stochastic control and optimization.
+
+
+My research interests include applying machine (deep) learning, causal and bayesian methods, reinforcement learning to problems in the field of quantitative finance, particularly to portfolio optimization, market dependency structure, factor investing and predictive analytics. I'm also drawn to specific areas like graph neural networks for time series networks, frequent patterns mining, regime-switch modeling, stochastic control and optimization.
+
+
+
 
 <!-- I have a great passion for applying machine (deep) learning, multivariate statistics, causal and bayesian methods, predictive analytics and optimization to tasks in the field of financial modeling, particularly to risk / portfolio optimization, market dependency structure, stochastic control and mathematical models of financial derivatives.  -->
 
