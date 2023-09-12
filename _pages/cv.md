@@ -61,15 +61,16 @@ Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.
 
 Languages: English - Advanced C1, Russian – Native <br>
 Programming: Languages: C++ / C#, Python, R, Matlab, Matcad, Octave, SQL <br>
-DevOps: Git, DVC, Hadoop, Cookiecutter-data-science, Kedro, MLFlow, Omniboard <br>
+DevOps: Linux, Bash, SSH, Git, DVC, Hadoop, Docker, AWS, Cookiecutter-data-science, WandB, MLFlow <br>
 
-## Machine learning toolkit
+## Quantitative Research toolkit
 
 ML packages: Scikit-learn, SciPy, LightGBM, Catboost, SHAP, Prophet, Numpy, Pandas, Matplotlib, Seaborn <br>
 Deep Learning: TensorFlow, PyTorch <br>
-Area of specialization: Machine learning, Deep Learning, Causal and Bayesian methods, Predictive Modelling,
-Uncertainty quantification, Optimal control, Quantitative Finance, System analysis, Recommender systems. <br>
+Finance: Yfinance, Statsmodels, Tsfresh, FinancePy, Quantpy, Pyfolio, Backtrader, Quantstats, Interactive Brocker <br>
+Area of specialization: Machine learning, Deep Learning, Causal and Bayesian methods, Uncertainty quantification,
+Optimal control, System analysis, Quantitative Finance, Strategies, Predictive Modelling, Portfolio optimization. <br>
 <br>
 
 ## Pdf version of Curriculum Vitae
-[https://drive.google.com/file/d/1OAw8j10wZ03Zpw-I1ErUTdfDEHKehBB-/view?usp=share_link](https://drive.google.com/file/d/1OAw8j10wZ03Zpw-I1ErUTdfDEHKehBB-/view?usp=share_link)
+[https://drive.google.com/file/d/16Fcq8b-fn2SDC3vSC8bn-utplYZdkIih/view?usp=share_link](https://drive.google.com/file/d/16Fcq8b-fn2SDC3vSC8bn-utplYZdkIih/view?usp=share_link)
