@@ -15,7 +15,7 @@ My name is Georgii "George" Nigmatulin, I'm a Machine Learning Research Engineer
 
 
 
-My research interests include applying machine (deep) learning, causal and bayesian methods, reinforcement learning to problems in the field of quantitative finance, particularly to portfolio optimization, market dependency structure, factor investing and predictive analytics. I'm also drawn to specific areas like graph neural networks for time series networks, frequent patterns mining, regime-switch modeling, stochastic control and optimization.
+My research interests include applying machine (deep) learning, causal and bayesian methods, reinforcement learning to problems in the field of quantitative finance, particularly to portfolio optimization, market dependency structure, factor investing and predictive analytics. I'm also drawn to specific areas like graph neural networks for time series networks, frequent patterns mining, regime-switch modeling, stochastic control and optimization, online portfolio selection.
 
 
 
