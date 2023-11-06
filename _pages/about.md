@@ -9,7 +9,7 @@ redirect_from:
 ---
 <style>body {text-align: justify}</style>
 
-My name is Georgii "George" Nigmatulin, I'm a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new AI features for smartwatches based on sensor time-series signals. In July 2022, I received MSs in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
+My name is Georgii "George" Nigmatulin, I'm a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new AI features for smartwatches based on sensor time-series signals. In July 2022, I received MSc in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
 
 <!-- My name is Georgii "George" Nigmatulin, I’m a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new features on AI algorithms for smartwatches. In July 2022, I received MSs in Applied Mathematics and Physics, specializing in machine learning, after finishing my studies at the Moscow Institute of Physics and Technology. -->
 
