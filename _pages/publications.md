@@ -7,7 +7,7 @@ author_profile: true
 
 * Beliaev, K, K Pavlov, E Nikolaev, A Perchik, A Ayuev, G Nigmatulin, E Volkova, W Lee and S Jung. 2023. "Body temperature solution for Smartwatch." [Submitted].
 
-* Nigmatulin, G, K Pavlov and A Zaytsev. 2023. "Anomaly detection aided Active Learinng." [Accepted to IEEE Globecom 2023 IoTSN].  
+* Nigmatulin, G, K Pavlov and A Zaytsev. 2023. "Anomaly detection aided Active Learinng." Accepted to IEEE Globecom 2023 IoTSN, [https://edas.info/showManuscript.php?m=1570902535&ext=pdf&random=211154087&type=stamped](https://edas.info/showManuscript.php?m=1570902535&ext=pdf&random=211154087&type=stamped).
 
 * Pavlov, K., Perchik, A., Tsepulin, V., Megre, G., Nikolaev, E., Volkova, E., Nigmatulin, G., L, HJ., L, WS., and K, YH. 2022. "Sweat loss estimation algorithm for smartwatches." IEEE Access, vol. 11, pp. 23926-23934, 2023, [https://ieeexplore.ieee.org/document/10061707](https://ieeexplore.ieee.org/document/10061707).
 
