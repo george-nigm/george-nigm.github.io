@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "George Nigmatulin"
-  avatar           : "output-onlinepngtools.png"
-  bio              : "Machine Learning Engineer"
-  location         : "Location: Almaty, Kazakhstan"
-  employer         : "Samsung Research"
+  avatar           : "B8CCA43E-709C-4727-BB62-14384762C9AB 2.png"
+  bio              : "PhD Researcher in Machine Learning and Quantitative Finance"
+  employer         : "University of Oxford"
+  location         : "Location: Oxford, UK"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AOV7GLMqEw2qL96L-rAAoVcqMFeP4BWGx0IHLkF0I-MLJRGU6qfeoRPDDb-vinfh1X-6knwtRd4CwxMh-3B5sw&user=jGPYeWIAAAAJ"
-  email            : "george.nigm@gmail.com"
+  email            : "george.nigmatulin@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

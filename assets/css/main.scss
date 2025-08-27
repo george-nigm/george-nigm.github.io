@@ -39,3 +39,39 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Custom styles
+.author__bio {
+  text-align: left !important;
+}
+
+.author__avatar {
+  text-align: left !important;
+}
+
+.author__avatar img {
+  border-radius: 20% !important; /* Make it circular again */
+  max-width: 500px !important;
+}
+
+/* Move the entire author profile block to the right */
+.author__content {
+  margin-left: 25px !important;
+  padding-left: 25px !important;
+}
+
+/* Also move the avatar container to the right */
+.author__avatar {
+  margin-left: 20px !important;
+}
+
+/* Move the social links block to the right as well */
+.author__urls {
+  margin-left: 10px !important;
+  padding-left: 15px !important;
+}
+
+/* Move individual social link items to the right */
+.author__urls-wrapper {
+  margin-left: 20px !important;
+}

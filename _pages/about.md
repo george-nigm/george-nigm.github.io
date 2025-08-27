@@ -9,20 +9,27 @@ redirect_from:
 ---
 <style>body {text-align: justify}</style>
 
-My name is Georgii "George" Nigmatulin, I'm a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new AI features for smartwatches based on sensor time-series signals. In July 2022, I received MSc in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology.
+Oxford PhD researcher in Generative AI for market microstructure. I study the realism of GenAI-generated order flow through the lens of market impact, combining tokenized Limit-Order-Book message streams with sequence models (SSMs, transformers, diffusion), GPU-accelerated JAX simulations, and reinforcement learning for quantitative trading. Earlier, I worked on portfolio optimization and causal inference. My supervisors are [Stefan Zohren](https://scholar.google.co.uk/citations?user=mtNQD-8AAAAJ&hl=en) and [Jakob Foerster](https://scholar.google.com/citations?user=6z4lQzMAAAAJ&hl=en).
+
+My interests center on state-of-the-art machine-learning methods for trading strategies, market making, execution, and predictive analytics — with additional work in causal inference, graph neural networks for time-series graphs, regime-switching models, and online portfolio selection.
+
+Previously at Samsung R&D, I built ML for sensor time-series (signal processing, dependency structure modeling, end-to-end feature delivery). In academic research (Skoltech–Sberbank), I worked on uncertainty quantification, anomaly detection, and deep learning. Earlier, at a top-ranked regional bank, I built ATM withdrawal prediction and a discrete-optimization system for cash logistics.
+
+
+<!-- My name is George Nigmatulin, I'm a Doctoral Researcher at Oxford University, creating new AI features for smartwatches based on sensor time-series signals. In July 2022, I received MSc in Applied Mathematics and Physics after finishing my studies at the Moscow Institute of Physics and Technology. -->
 
 <!-- My name is Georgii "George" Nigmatulin, I’m a Machine Learning Research Engineer at Samsung R&D Institute Russia, creating new features on AI algorithms for smartwatches. In July 2022, I received MSs in Applied Mathematics and Physics, specializing in machine learning, after finishing my studies at the Moscow Institute of Physics and Technology. -->
 
 
 
-My research interests include applying machine (deep) learning, causal and bayesian methods, reinforcement learning to problems in the field of quantitative finance, particularly to portfolio optimization, market dependency structure, factor investing and predictive analytics. I'm also drawn to specific areas like graph neural networks for time series networks, frequent patterns mining, regime-switch modeling, stochastic control and optimization, online portfolio selection.
+<!-- My research interests include applying machine (deep) learning, causal and bayesian methods, reinforcement learning to problems in the field of quantitative finance, particularly to portfolio optimization, market dependency structure, factor investing and predictive analytics. I'm also drawn to specific areas like graph neural networks for time series networks, frequent patterns mining, regime-switch modeling, stochastic control and optimization, online portfolio selection. -->
 
 
 
 
 <!-- I have a great passion for applying machine (deep) learning, multivariate statistics, causal and bayesian methods, predictive analytics and optimization to tasks in the field of financial modeling, particularly to risk / portfolio optimization, market dependency structure, stochastic control and mathematical models of financial derivatives.  -->
 
-My research experience, which I'm currently engaged in at Samsung, concerns proceeding signals by ML algorithms, dependency structure, end-to-end development of new features. In academic research, I've worked in the fields of Uncertainty quantification, Anomaly detection, Deep Learning and Active learning in the Skoltech-Sberbank joint laboratory. Previously at top-1 regional bank, I was engaged in predictive modeling of withdrawals from ATM networks and created a discrete optimization system that controls cash management.
+
 
 
 
@@ -35,7 +42,7 @@ My research experience, which I'm currently engaged in at Samsung, concerns proc
 1. Yo, Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](nhttp://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 

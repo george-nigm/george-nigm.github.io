@@ -7,53 +7,62 @@ redirect_from:
   - /resume
 ---
 
-## Work expirience
+## EDUCATION
 
 <details>
-<summary>Samsung R&D Institute Russia (Jul 2021 – Present, Moscow, Russia) <br> Machine Learning R&D Engineer / Sensor Solutions Team, Life Care Solutions lab.</summary>
+<summary><strong>University of Oxford</strong> (Oxford, United Kingdom). Oct 2024 – Dec 2027 (exp.)<br>Department of Engineering Science / Machine Learning Research Group</summary>
 <ul>
-<li> Developed regression models for estimation BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW(Intracellular
-Extracellular water) by a multi-frequency signal (released in Samsung’s Galaxy Watch 4)</li>
-<li> Designed system of Data Quality estimation, detection erroneous measurements and classifying user usage errors basedonOutliers’
-Detection algorithms. Quality metric increased by 21% compared to heuristics</li>
-<li> Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE=7.7%, R2=0.95and
-Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79).</li>
+<li>Doctor of Philosophy in Engineering / Quantitative Finance and Machine Learning, Supervisor: Professor Stefan Zohren</li>
+<li>Scholarship: ESRC Grand Union Doctoral Training Partnership (DTP) Data Skills Studentship</li>
+<li>Research project: "Causal Survival Analysis in Limit Order Books: Estimation Fill Probabilities"</li>
 </ul>
 </details>
 
 <details>
-<summary>Skolkovo Institute of Science and Technology (Aug 2020 – Jul 2022, Moscow, Russia) <br> Researcher / Laboratory of applied research Skoltech-Sberbank.</summary>
+<summary><strong>Moscow Institute of Physics and Technology</strong> (Moscow, Russia) The Phystech School of Applied Mathematics and Computer Science.<br>Sep 2020 – Jun 2022</summary>
 <ul>
-<li> Developed an active learning algorithm modified by anomaly detection for planning experiments. The number of required labeling has been reduced by 58%, the quality of the regression model has been improved by 19%</li>
-<li> Researched the uncertainty scores (total, data, knowledge) using a Bayesian ensemble of decision trees, and anomaly detection methods; researched correlation dependencies of uncertainty/abnormality scores.</li>
+<li>Master's degree in applied mathematics and physics / GPA 4.8 out of 5.0 for 2 years, top 5% of the class</li>
+<li>Scholarship: Government academic scholarship for only A-mark students</li>
+<li>Graduation project: "Anomaly Detection-Aided Active Learning on smartwatches data"</li>
 </ul>
 </details>
 
 <details>
-<summary>Bank Orenburg (Jun 2019 – Jul 2020, Orenburg, Russia) <br> Analyst, Data Scientist.</summary>
+<summary><strong>Orenburg State University</strong> (Orenburg, Russia)<br>Sep 2016 – Jun 2020</summary>
 <ul>
-<li> Forecasted the ATM daily cash demands based on Exponential Smoothing, ARIMA, Neural Networks, SSA.</li>
-<li> Developed a Discrete model of optimal cash management in ATM branches on forecasted cash withdrawals using Dynamic programming,which increased the profitability compared to the classical model by 30%.</li>
+<li>Bachelor's degree in applied mathematics and computer science / GPA 5.0 out of 5.0 for 4 years, top 1% of the class</li>
+<li>Scholarships: Government academic scholarship for only A-mark students, Increased Scholarship for Research Activities</li>
+<li>Graduation project: "Research of machine learning models for predicting and optimizing ATM service"</li>
 </ul>
 </details>
 
-## Education
+## WORK EXPERIENCE
 
 <details>
-<summary>Moscow Institute of Physics and Technology (Sep 2020 – Jun 2022, Moscow, Russia) <br> Master’s degree in applied mathematics and physics / Machine learning and data analysis.</summary>
+<summary><strong>Machine Learning Research Group</strong> (Oxford, United Kingdom)<br>Sep 2024 – Present</summary>
 <ul>
-<li> The Interfaculty Department of Information Transmission Problems and Data Analysis</li>
-<li> Graduation project: “Anomaly detection aided Active learning on smart watches data”</li>
-<li> Average grade 4.8 out of 5.0 for 2 years.</li>
+<li>Research Engineer / Quantitative Finance Stream</li>
+<li>Developing Machine Learning framework to analyze the Price Impact of Market Orders, Limit Orders and Cancellations. Utilizing autoregressive modeling to account for history-dependent effects, improving forecast accuracy and trade execution efficiency for small tick stocks by capturing internal order book fluctuations</li>
+<li>Creating a Generative AI model for sequence prediction in NASDAQ limit order books, leveraging a deep state space model and custom tokenizer to simulate realistic order flows. Increasing mid-price return forecast accuracy and a correlation with realized returns, enhancing potential for reinforcement learning in high-frequency trading applications</li>
 </ul>
 </details>
 
 <details>
-<summary>Orenburg State University (Sep 2016 – Jun 2020, Orenburg, Russia) <br> Bachelor’s degree in applied mathematics and computer science.</summary>
+<summary><strong>Samsung R&D Institute</strong> (Remote, South Korea)<br>Jul 2021 – Jun 2024</summary>
 <ul>
-<li> Department of Math and information technology</li>
-<li> Graduation project: "Research of machine learning models for predicting and optimizing ATM service"</li>
-<li> Average grade 5.0 out of 5.0 for 4 years.</li>
+<li>Machine Learning Engineer / Sensor Solution Team</li>
+<li>Developed Sweat loss estimation algorithm. Accelerometer-based Neural Network estimates running distance (MAPE =7.7%, R2=0.95) and Polynomial Kernel Ridge Regression estimates the loss in ml (RMSEBWP=0.3%, R2=0.79)</li>
+<li>Developed regression models for estimation of BFM (Body fat mass), SMM (Skeletal muscle mass), ICW & ECW (Intracellular / Extracellular water) by a multi-frequency signal (released in Samsung's Galaxy Watch 4)</li>
+<li>Developed Body Temperature algorithm for a smartwatch. SVM on perfusion signals detect the presence of heat (Accuracy=0.91, F1=0.87) and Ridge Regression estimates the core temperature in ℃ (MSE=0.19, R2= 0.77) based on dynamical, thermal, environmental and anthropometric data. Best performance among competitors</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Bank Orenburg</strong> (Orenburg, Russia)<br>Jun 2019 – Jul 2020</summary>
+<ul>
+<li>Analyst, Data Scientist / Information technology Department</li>
+<li>Forecasted the ATM daily cash demands based on Triple Exponential Smoothing, ARIMA, Neural Networks, SSA</li>
+<li>Developed a discrete model of optimal cash management in ATM branches using dynamic programming, which increased profitability compared to the classical model by 30%</li>
 </ul>
 </details>
 
