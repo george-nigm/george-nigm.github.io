@@ -9,7 +9,7 @@ redirect_from:
 ---
 <style>body {text-align: justify}</style>
 
-Oxford PhD researcher in Generative AI for market microstructure. I study the realism of GenAI-generated order flow through the lens of market impact, combining tokenized Limit-Order-Book message streams with sequence models (SSMs, transformers, diffusion), GPU-accelerated JAX simulations, and reinforcement learning for quantitative trading. Earlier, I worked on portfolio optimization and causal inference. My supervisors are [Stefan Zohren](https://scholar.google.co.uk/citations?user=mtNQD-8AAAAJ&hl=en) and [Jakob Foerster](https://scholar.google.com/citations?user=6z4lQzMAAAAJ&hl=en).
+Oxford PhD researcher in Generative AI for market microstructure. I study the realism of GenAI-generated order flow through the lens of market impact, combining tokenized Limit-Order-Book message streams with sequence models (SSMs, transformers, diffusion), GPU-accelerated JAX simulations, and reinforcement learning for quantitative trading. Earlier, I worked on portfolio optimization and causal inference. I'm a member of [Oxford Engineering Department](https://eng.ox.ac.uk), my supervisors are [Stefan Zohren](https://scholar.google.co.uk/citations?user=mtNQD-8AAAAJ&hl=en) and [Jakob Foerster](https://scholar.google.com/citations?user=6z4lQzMAAAAJ&hl=en).
 
 My interests center on state-of-the-art machine-learning methods for trading strategies, market making, execution, and predictive analytics — with additional work in causal inference, graph neural networks for time-series graphs, regime-switching models, and online portfolio selection.
 
