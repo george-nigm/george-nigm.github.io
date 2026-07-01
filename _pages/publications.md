@@ -5,9 +5,9 @@ permalink: publications/
 author_profile: true
 ---
 
-* Nigmatulin, G, et al. 2026. "Neural Scaling Laws for Order Flow Generation." [Submitted to NeurIPS 2026].
+* "Emergent Macroscopic Market Impact Analysis on AI-Generated Limit Order Book Data." [Submitted to NeurIPS 2026].
 
-* Nigmatulin, G, et al. 2026. "Emergent Macroscopic Market Impact Analysis on AI-Generated Limit Order Book Data." [Submitted to NeurIPS 2026].
+* "Neural Scaling Laws for Order Flow Generation." [Submitted to NeurIPS 2026].
 
 * Mohl, V, S Frey, R Leyland, K Li, G Nigmatulin, M Cucuringu, S Zohren, J Foerster, and A Calinescu. 2025. "JaxMARL-HFT: GPU-Accelerated Large-Scale Multi-Agent Reinforcement Learning for High-Frequency Trading." Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF), pp. 18-26. **[Honourable Mention]**. [https://arxiv.org/abs/2511.02136](https://arxiv.org/abs/2511.02136).
 
