@@ -58,6 +58,15 @@ redirect_from:
 </details>
 
 <details>
+<summary><strong>Skolkovo Institute of Science and Technology</strong> (Moscow, Russia)<br>Aug 2020 – Jul 2022</summary>
+<ul>
+<li>Machine Learning Researcher / Laboratory of Applied Research for Structured Data Statistics</li>
+<li>Developed an active learning algorithm modified by anomaly detection for planning experiments. The number of required labeling has been reduced by 58%, the quality of the regression model has been improved by 19%</li>
+<li>Researched the uncertainty scores (total, data, knowledge) using a Bayesian ensemble of decision trees, and anomaly detection methods; researched correlation dependencies of uncertainty/abnormality scores</li>
+</ul>
+</details>
+
+<details>
 <summary><strong>Bank Orenburg</strong> (Orenburg, Russia)<br>Jun 2019 – Jul 2020</summary>
 <ul>
 <li>Analyst, Data Scientist / Information technology Department</li>
