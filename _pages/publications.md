@@ -17,8 +17,6 @@ author_profile: true
 
 * Pavlov, K., Perchik, A., Tsepulin, V., Megre, G., Nikolaev, E., Volkova, E., Nigmatulin, G., L, HJ., L, WS., and K, YH. 2022. "Sweat loss estimation algorithm for smartwatches." IEEE Access, vol. 11, pp. 23926-23934, 2023, [https://ieeexplore.ieee.org/document/10061707](https://ieeexplore.ieee.org/document/10061707).
 
-* Volkova, E., Pavlov, K., Beliaev, K., Perchik, A., Lychagov, V., Nikolaev, E., Nigmatulin, G., Ayuev, A., Lee, HJ., Lee, WS., & Kim, YH. 2022. Body temperature algorithm for wearable devices. Patent No. [WR-202210-007-1-RU0](WR-202210-007-1-RU0).
-
 * Nigmatulin, G, and O Chaganova. 2021. "Research of an Optimization Model for Servicing a Network of ATMs and Information Payment Terminals." Communications in Computer and Information Science, Springer. [https://arxiv.org/abs/2210.09927](https://arxiv.org/abs/2210.09927).
 
 * Bolodurina, I, G Nigmatulin, and D Parfenov. 2020. "Intersection of Triangles in Space
