@@ -11,7 +11,7 @@ author_profile: true
 
 * Mohl, V, S Frey, R Leyland, K Li, G Nigmatulin, M Cucuringu, S Zohren, J Foerster, and A Calinescu. 2025. "JaxMARL-HFT: GPU-Accelerated Large-Scale Multi-Agent Reinforcement Learning for High-Frequency Trading." Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF), pp. 18-26. **[Honourable Mention]**. [https://arxiv.org/abs/2511.02136](https://arxiv.org/abs/2511.02136).
 
-* Beliaev, K, K Pavlov, E Nikolaev, A Perchik, A Ayuev, G Nigmatulin, E Volkova, W Lee and S Jung. 2023. "Body temperature solution for Smartwatch." [Submitted].
+* Volkova, E, K Pavlov, K Beliaev, A Perchik, V Lychagov, E Nikolaev, A Ayuev, G Nigmatulin, W Lee, H Lee, and Y Kim. 2025. "Electronic Device and Method for Determining a Body Core Temperature." US Patent No. US20250352075A1, Samsung Electronics Co., Ltd. [https://patents.google.com/patent/US20250352075A1/en](https://patents.google.com/patent/US20250352075A1/en).
 
 * Nigmatulin, G, K Pavlov and A Zaytsev. 2023. "Anomaly detection aided Active Learinng." Accepted to IEEE Globecom 2023 IoTSN, [https://edas.info/showManuscript.php?m=1570902535&ext=pdf&random=211154087&type=stamped](https://edas.info/showManuscript.php?m=1570902535&ext=pdf&random=211154087&type=stamped).
 
