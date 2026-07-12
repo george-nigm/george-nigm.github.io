@@ -14,7 +14,7 @@ redirect_from:
 <ul>
 <li>Doctor of Philosophy in Engineering / Quantitative Finance and Machine Learning, Supervisor: Professor Stefan Zohren</li>
 <li>Scholarship: ESRC Grand Union Doctoral Training Partnership (DTP) Data Skills Studentship</li>
-<li>Research project: "Causal Survival Analysis in Limit Order Books: Estimation Fill Probabilities"</li>
+<li>Thesis: "Generative AI for Financial Data: From Price-Impact Consistency to Reinforcement Learning Driven Trading"</li>
 </ul>
 </details>
 
