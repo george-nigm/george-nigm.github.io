@@ -5,7 +5,9 @@ permalink: publications/
 author_profile: true
 ---
 
-* "Emergent Macroscopic Market Impact Analysis on AI-Generated Limit Order Book Data." [Submitted to NeurIPS 2026].
+* "Emergent Macroscopic Market Impact Analysis on AI-Generated Limit Order Book Data." [In preparation for ICAIF 2026].
+
+* "Understanding the Inner Workings of HFT Foundation Models." [In preparation for ICAIF 2026].
 
 * "Neural Scaling Laws for Order Flow Generation." [Submitted to NeurIPS 2026].
 
