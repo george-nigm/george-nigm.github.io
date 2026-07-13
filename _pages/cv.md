@@ -91,4 +91,6 @@ Optimal control, System analysis, Quantitative Finance, Strategies, Predictive M
 <br>
 
 ## Pdf version of Curriculum Vitae
+*Note: this PDF is outdated (last updated in 2023). An up-to-date version will be uploaded soon.*
+
 [https://drive.google.com/file/d/16Fcq8b-fn2SDC3vSC8bn-utplYZdkIih/view?usp=share_link](https://drive.google.com/file/d/16Fcq8b-fn2SDC3vSC8bn-utplYZdkIih/view?usp=share_link)
